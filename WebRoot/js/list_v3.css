@@ -1,0 +1,897 @@
+.bodybg{padding-bottom:30px;}.whitebg{}.wrap{width:1205px;min-width:1205px;margin:0
+auto}.sbtn,.sbtn
+span{display:inline-block;background:url(http://img1.tuniucdn.com/img/2014061215576/list_v3/btnsprite.png) no-repeat;cursor:pointer;overflow:hidden}.sbtn{padding-left:10px}.sbtn
+span{padding-right:10px}.sbtn-green,.sbtn-green
+span{color:#fff}.sbtn-green{background-position:left 0}.sbtn-green
+span{background-position:right 0}.sbtn-orange,.sbtn-orange
+span{color:#fff}.sbtn-orange{background-position:left -42px}.sbtn-orange
+span{background-position:right -42px}.sbtn-20,.sbtn-20
+span{height:20px;line-height:18px}.sbtn-24,.sbtn-24
+span{height:25px;line-height:24px;*line-height:26px}.orange{color:#f60}.tnPrice{color:#f60;margin-right:10px}.tnPrice
+i{font-family:"Microsoft YaHei"}.tnPrice
+em{font-family:tahoma;font-size:18px}.mr3{margin-right:3px}.mt0{margin-top:0px!important}.mt20{margin-top:20px}.mt30{margin-top:30px}.h_icon{display:inline-block;width:9px;height:9px;margin-left:2px;font-size:0;line-height:0;background:url(http://img1.tuniucdn.com/img/2014070710/list_v3/icon.png) no-repeat left -288px;overflow:hidden}i,em{font-style:normal}.toparea{width:100%;min-width:1205px;padding-top:5px}.toparea
+.crumbs{height:28px;line-height:28px;zoom:1}.toparea .crumbs:after{content:".";display:block;height:0;clear:both;visibility:hidden}.toparea .crumbs
+p{display:inline;float:left;padding-left:5px}
+.toparea .crumbs p a{color:#036adc}.toparea .crumbs
+.baidu_share{float:right}.toparea .crumbs p a:hover{color:#f60;text-decoration:underline}.toparea .crumbs p
+span{color:#999}.toparea .crumbs p
+i{padding:0
+6px;font-family:Simsun}.toparea
+.areabox{margin-top:15px}.toparea
+.citybox{position:relative;padding-left:10px;color:#444;z-index:200}.toparea .citybox
+b{font:400 24px/32px "Microsoft YaHei"}.toparea .citybox
+.moreplace{line-height:20px;cursor:pointer}.moreplace
+i{position:relative;display:inline-block;width:7px;height:4px;margin-left:3px;background:url(http://img1.tuniucdn.com/img/2014070710/list_v3/icon.png) no-repeat 0 -377px;overflow:hidden;vertical-align:middle;-moz-transform-origin:50% 50%;-webkit-transition:-webkit-transform .2s ease-in;-moz-transition:transform .2s ease-in;-o-transition:transform .2s ease-in;transition:transform .2s ease-in;_vertical-align:4px}.moreplace-on
+i{transform:rotate(180deg);-webkit-transform:rotate(180deg);-moz-transform:rotate(180deg);-o-transform:rotate(180deg);background-position:0px -371px\0;*background-position:0px -371px}.moreplace-box{position:absolute;top:33px;left:76px;width:520px;padding:10px
+15px;border:1px
+solid #fdbb6e;background-color:#FFF;overflow:hidden;display:none;z-index:2}.moreplace-box
+p{padding-left:2px;color:#666;font-weight:700}.moreplace-box
+.points{width:520px;padding-left:4px;margin-bottom:5px;overflow:hidden}.moreplace-box
+.hotpointer{width:550px;margin-left:-15px;padding:5px
+0}.moreplace-box
+.nbd{border:0
+none;margin-bottom:0}.moreplace-box
+a{display:inline-block;margin:0
+12px;padding:0
+2px;line-height:24px;color:#666;white-space:nowrap}.moreplace-box a:hover,.moreplace-box
+a.cur{padding:0
+2px;color:#FFF;background-color:#f60}.moreplace-box .hotpointer
+span{margin:0
+15px;padding:5px
+7px;border-radius:3px;color:#666;background-color:#f2f2f2}.toparea
+.protab{float:right;height:77px;overflow:hidden}.toparea .protab
+dl{float:left;margin-top:9px;height:65px}.toparea .protab dd,.toparea .protab
+dt{display:inline;float:left;padding:0
+16px;border:1px
+solid #e9eceb;background:rgba(250,250,250,0.9);filter:progid:DXImageTransform.Microsoft.Gradient(startColorstr=#eeffffff,endColorstr=#eeffffff)}.toparea .protab
+dd{border-right:0 none}.toparea .protab dd
+a{padding-left:25px;color:#888;font:400 20px/65px "Microsoft YaHei";background:url(http://img1.tuniucdn.com/img/2014070710/list_v3/icon.png) no-repeat}.toparea .protab dd.t-product
+a{background-position:left 6px}.toparea .protab dd.t-guide
+a{background-position:left -30px}.toparea .protab dd.t-viewspot
+a{background-position:left -68px}.toparea .protab dd.t-blogs
+a{background-position:left -107px}.toparea .protab dd.t-tips
+a{background-position:left -148px}.toparea .protab
+dd.cur{height:72px;margin-left:-1px;margin-top:-9px;padding:0
+36px;border-top:3px solid #036adc;border-left:1px solid #e9eceb;background-color:#fff}.toparea .protab dd.cur
+a{font-weight:700;color:#036adc;line-height:78px}.toparea .protab
+dt{height:50px;padding-top:15px;overflow:hidden}.toparea .protab dt
+.sat{display:inline-block;width:114px;margin-right:15px;color:#f80;vertical-align:top}.toparea .protab dt .sat i,.toparea .protab dt .sat
+em{display:inline;float:left}.toparea .protab dt .sat
+i{font-size:40px;margin-top:-13px}.toparea .protab dt
+p{width:140px;color:#636363}.toparea .protab dt p
+i{font-family:Arial}.filterboxs{}.traveltype{height:40px;background-color:#fafafa}.traveltype
+li{display:inline;float:left;height:40px}.traveltype li
+a{display:inline-block;margin-top:12px;padding:0
+13px;border-right:1px solid #dbdbdb;color:#666;font-family:"Microsoft YaHei"}.traveltype li a
+i{font-family:Arial}.traveltype
+li.cur{position:relative;height:39px;margin-bottom:-1px;border-right:1px solid #dbdbdb;border-left:1px solid #dbdbdb;border-top:2px solid #036adc;background-color:#fff}.traveltype li.cur
+a{margin-top:10px;border:0
+none;color:#036adc}.mainbody{margin-top:15px}.maychoose{height:34px;padding:0
+10px 0 20px;margin:0
+0 10px;border:1px
+solid #e7e7e7;background-color:#fafafa;line-height:34px;box-shadow:0 2px 0 #eaeaea;overflow:hidden}.maychoose
+a{color:#666}.maychoose
+span{color:#999}.maychoose
+a{margin-right:10px}.maychoose a:hover{color:#f60;text-decoration:underline}.main-content{width:800px}.pro-tab-box{margin-top:10px}.pro-tab{height:37px;padding:10px
+0 0;background:url(http://img.tuniucdn.com/img/20140422/filter/titlebg.png) no-repeat}.pro-tab ul
+li{display:inline;float:left;margin-right:10px}.pro-tab ul li
+a{padding:0
+10px;color:#fff;font:400 14px/36px "Microsoft YaHei"}.pro-tab ul li.cur a,
+.pro-tab ul li a:hover{display:inline-block;margin-top:5px;height:26px;line-height:26px;border-radius:2px;background-color:#2e9900}.prop_list dd .morechoice,
+.prop_list dd .lesschoice,
+.prop_list dd .more,
+.prop_list dd .seniorSel li
+.arrow{background:url(http://img1.tuniucdn.com/img/20130619/common/o_20x500.png) no-repeat}.prop_list dd
+li.mulselect{background:url(http://img.tuniucdn.com/img/20140417/common/add.png) no-repeat 0 0}.cate_nav{width:auto;border:0
+none;overflow:visible}.madai_wrap
+.cate_nav{border-top:1px solid #eaeaea}.selected_attr{border-bottom:1px solid #eaeaea}.selected_attr
+dl{float:left;padding:5px
+15px}.selected_attr dt, .selected_attr
+dd{float:left;display:inline;height:21px;line-height:21px}.selected_attr dd
+a{position:relative;border:1px
+solid #ffaa1d;display:block;float:left;margin:3px
+5px 2px 0;padding:0
+16px 0 3px;height:15px;line-height:15px;z-index:-1}.selected_attr dd a
+.close_icon{position:absolute;top:1px;right:1px;background-position:-3px -465px;display:inline-block;width:14px;height:13px}.prop_list{background:#fff}.prop_list
+.prop_item{padding:7px
+15px;text-align:left;white-space:nowrap;overflow:hidden;position:static}.prop_list .prop_item
+.confAndCancel{display:none}.prop_list
+.showCheckBox{background-color:#f5f5f5}.prop_list .showCheckBox
+.confAndCancel{display:block}.prop_list .prop_item .filter_input
+input{display:none}.prop_list .showCheckBox .filter_input
+input{display:inline}.prop_list dt,  .prop_list dd
+li{float:left;display:inline}.prop_list
+dd{float:left;width:95%}.prop_list
+dd.twoLines{height:48px;overflow:hidden}.prop_list
+dl{padding:0
+0 0 70px;zoom:1}.prop_list dl:after{content:".";display:block;height:0;clear:both;visibility:hidden}.prop_list
+dt{margin:0
+0 0 -70px;line-height:24px;text-align:right;width:60px}.prop_list .mult_select
+dd{width:100%;position:relative}.prop_list dl
+ul{width:80%}.prop_list dl
+ul.seniorSel{}.prop_list .hasMoreChoice dl
+ul{position:relative}.prop_list dd
+li{overflow:visible;margin-right:5px}.prop_list dd li.filter_input
+input{position:relative;top:2px;margin-right:5px;*top:1px;*position:static}.prop_list .xc_days dd li.filter_input
+input{margin-right:-3px}.prop_list dd
+li.fixedpos{position:absolute;right:-15px;display:none;top:0}.prop_list .hasMoreChoice dd
+li.fixedpos{display:inline}.prop_list .mult_select dd
+li.fixedpos{display:inline}.prop_list .showCheckBox dd
+li.fixedpos{display:none}.prop_list dd
+li.mulselect{position:absolute;right:40px}.prop_list .showCheckBox dd li.hasSelected
+a{border:1px
+solid #f90;padding:0px
+8px 2px}.prop_list dd
+li.mulselect{background-position:5px 7px;background-color:#fff}.prop_list dd li.mulselect:hover{background-position:5px -13px;background-color:#fff}.prop_list dd li.mul/select:hover{background-color:#f0f0f0;transition:background-color 0.3s ease-in}.prop_list dd li.mulselect
+a{border:1px
+solid #d8d8d8;padding:0px
+3px 0px 16px;height:18px;line-height:16px;*line-height:20px;line-height:18px\0;line-height:20px\9\0}.prop_list dd li
+a{display:inline-block;white-space:nowrap;height:16px;line-height:16px;padding:2px
+8px;margin:2px
+0}.prop_list dd li a:hover{color:#f60}.prop_list  dd li
+a.cur_city{background:#f80;color:#fff;display:inline-block}.madai_wrap .prop_list  dd li
+a.cur_city{background:#f80;color:#fff;display:inline-block}.prop_list  .showCheckBox dd li
+a.input_hide{display:none}.prop_list dd li.has_selected
+a{background:none repeat scroll 0 0 #f80;color:#FFF}.madai_wrap .prop_list dd li.has_selected
+a{background:#f80}.prop_list .showCheckBox dd li.has_selected
+a{background:none;color:#404040}.prop_list dd
+.calendar{float:left}.prop_list dd .calendar
+div{pos/ition:relative;float:left;width:auto;height:24px;line-height:20px;padding:0
+3px}.prop_list dd .calendar
+input{border:1px
+solid #d0d0d0;background-position:112px -432px;padding:3px
+2px 3px 5px;vertical-align:middle;width:125px}.prop_list dd .calendar .b_day, .prop_list dd .calendar
+.e_day{position:absolute;right:28px;top:3px;color:#999;line-height:16px}.prop_list
+dd.more_fiter{position:relative;z-index:1;width:auto;padding:0
+100px 0 0}.prop_list dd.more_fiter
+.mf_btn{position:absolute;top:4px;right:0;background-position:0 -1380px;width:76px;height:22px;text-indent:-20000em;cursor:pointer}.prop_list dd.more_fiter
+.mf_btn_hover{background-position:0 -1402px}.prop_list dd.more_fiter
+#more_pot{height:44px}.prop_list
+dd.more_city{position:relative;z-index:1;width:auto;padding:0
+100px 0 0}.prop_list dd.more_city
+.ex_btn{position:absolute;top:4px;right:0;background-position:46px -342px;color:#666;width:76px;height:22px;cursor:pointer}.prop_list dd.more_city
+.ex_btn_hover{background-position:46px -368px}.prop_list dd.more_city .ex_btn:hover{color:#f60}.prop_list dd.more_city
+#city_list{height:44px}.prop_list dl
+.list_3_show{height:52px;overflow:hidden;width:635px}.prop_list dd
+.more{display:inline-block;height:16px;line-height:16px;margin:2px
+0;padding:2px
+10px;white-space:nowrap}.prop_list dd a:hover{color:#f60}.prop_list dd
+.more{background-position:30px -342px;padding-right:12px}.prop_list dd
+.morechoice{background-position:27px -340px;padding-right:12px}.prop_list dd
+.lesschoice{background-position:27px -366px;padding-right:12px}.confAndCancel{padding:10px
+0 0px 85px;text-align:center}.confAndCancel
+.confirm{border:1px
+solid #d8d8d8;background-color:#fff;padding:2px
+15px;*padding:2px
+5px 0;margin-right:15px;cursor:pointer;transition:background 0.3s ease-in}.confAndCancel .confirm:hover{color:#f60}.confAndCancel
+.cancel{transition:color 0.1s ease-out}.confAndCancel .cancel:hover{color:#f90}.prop_list dd .seniorSel
+li{display:block;margin:0
+0 0 -1px;position:relative}.prop_list dd .seniorSel li
+.seniorBox{display:none}.prop_list dd .seniorSel li.seniorCurrent
+.seniorBox{display:block}.prop_list dd .seniorSel li
+.arrow{background-position:-5px -340px;*background-position:-5px -346px;display:inline-block;width:12px;height:16px}.prop_list dd .seniorSel li
+.seniorTab{border:1px
+solid #c6c6c6;z-index:1001;padding:0
+5px}.prop_list dd .seniorSel
+li.seniorCurrent{z-index:999}.prop_list dd .seniorSel li.seniorCurrent
+.seniorTab{border:1px
+solid #f90;z-index:1001;border-bottom:none;position:relative;background-color:#fff}.prop_list dd .seniorSel li .seniorBox
+p{line-height:24px}.prop_list dd .seniorSel li
+.seniorBox{border:1px
+solid #f90;position:absolute;padding:10px
+46px 10px 10px;background-color:#fff;left:0px;top:24px;z-index:1000;min-width:70px}.prop_list dd .seniorSel li .seniorBox
+input{position:relative;top:3px;margin-right:8px}.prop_list dd .seniorSel li .seniorBox
+.hand_ml{cursor:pointer}.prop_list
+.prop_item.senior_sel{overflow:visible}.had_select
+.deltab{background:url(http://img.tuniucdn.com/img/20130701/common/del.png) no-repeat;display:inline-block;height:14px;width:14px;position:relative;top:3px;*top:1px}.prop_list dd .had_select li
+a{padding:0px
+2px 2px 8px;border:1px
+solid #f80;*padding:2px
+2px 4px 8px}.madai_wrap .had_select
+.deltab{background:url(http://img.tuniucdn.com/img/20130701/common/del_7x7.png) no-repeat 5px 3px;display:inline-block}.prop_list dl
+ul.start_city{width:670px;position:relative;heig/ht:48px}.prop_list dl ul.start_city
+.morechoice{display:block;right:-28px;top:0px}.prop_list .other_city dl ul.start_city
+.lesschoice{display:block;right:-28px;top:0px}.other_city{display:none}.other_city
+dt{color:#999}.other_city
+dt.fl_t{color:#404040}.prop-list-new{padding-bottom:20px;border:1px
+solid #e7e7e7;border-top:0 none;box-shadow:0 2px 0 #eaeaea}.prop-list-new
+.prop_item{_position:relative}.prop-list-new
+dt{line-height:32px}.prop-list-new
+.prop_item{padding:0px
+0 0 10px;line-height:32px;border-top:1px solid #eaeceb}.prop-list-new dd
+li{height:24px;padding:4px
+0;line-height:24px}.prop-list-new dd
+li.fixedpos{height:20px;right:-5px;line-height:18px;overflow:hidden}.prop-list-new dd .morechoice,
+.prop-list-new dd
+.lesschoice{display:block;width:20px;height:20px;padding:0;margin-top:7px;background:url(http://img1.tuniucdn.com/img/2014070710/list_v3/icon.png) no-repeat left -301px;overflow:hidden}.prop-list-new dd
+.lesschoice{background-position:0 -322px}.prop-list-new dd .morechoice a,
+.prop-list-new dd .lesschoice
+a{display:block;width:100%;padding:0;text-indent:100%;overflow:hidden}.prop-list-new dd
+li.mulselect{right:22px;top:7px;padding:0;background-position:5px 5px}.prop-list-new dd li.mulselect:hover{background-position:5px -15px}.prop-list-new dd li.mulselect
+a{margin:0;line-height:16px}.prop-list-new dd li a,
+.s_cate_list span
+a{color:#666}.prop-list-new
+dt{color:#999}.prop-list-new dd
+li.showing{margin-right:5px;line-height:24px;background-color:#fff4e5;border:0px
+solid #ffcd7c}.prop-list-new dd li
+.tipinfo{display:none}.prop-list-new
+dd.twoLines{height:64px}.prop-list-new dd li.showing
+a{color:#666;background:none}.prop-list-new dd
+.calendar{margin-top:4px}.showtipinfo{display:none;position:absolute;left:-1px;top:30px;width:160px;height:auto;padding:5px
+10px;color:#666;line-height:18px;background-color:#fff4e5;z-index:10;word-break:break-all;word-wrap:break-word;white-space:normal}.showallbtn{position:relative;width:140px;height:7px;border:1px
+solid #e7e7e7;border-top:0 none;margin:0
+auto;box-shadow:0 2px 2px #eaeaea}.showallbtn
+a{position:absolute;top:-15px;left:0;display:block;width:140px;height:22px;text-align:center;color:#036adc;font:400 12px/20px "Microsoft YaHei";background-color:#fff;z-index:10}.showallbtn a
+i{display:inline-block;width:10px;height:6px;margin-left:5px;background:url(http://img1.tuniucdn.com/img/2014070710/list_v3/icon.png) no-repeat 0 -587px;overflow:hidden;font-size:0;line-height:0}.showallbtn a.all
+i{background-position:-14px -587px}.prop-list-new .chooseitem
+ul{padding-bottom:10px;overflow:hidden}.prop-list-new .chooseitem
+li{display:inline;float:left;height:24px;padding:0;margin:5px
+10px 0 0}.prop-list-new .chooseitem dd .had_select li
+a{padding:0
+5px;margin:0;border:1px
+solid #f80;color:#666;height:18px;line-height:16px;white-space:nowrap;cursor:pointer;_line-height:20px}.chooseitem dd a
+em.deltab{position:static;display:inline;margin-left:6px;color:#bbb;font:700 16px Arial;cursor:pointer;background:none;vertical-align:middle;*vertical-align:3px;_vertical-align:middle}.chooseitem dd a:hover,.chooseitem dd a:hover
+em.deltab{color:#ff9419!important}.specil_filter,.specil_filter
+label{white-space:nowrap}.filter{width:998px;height:36px;margin:0;border:1px
+solid #e7e7e7;background:#fafafa;box-shadow:0px 2px 0px #eaeaea}.filter
+.filterForm{padding:10px
+18px;height:21px;line-height:21px;vertical-align:middle}.filter .filterForm
+p.basic{float:left}.filter .filterForm
+.s_keywords{border:1px
+solid #d8d8d8;padding:3px
+2px 3px 5px;margin:0
+10px 0 0}.filter .filterForm
+.submit_btn{float:left;width:70px;height:24px}.filter .filterForm .submit_btn
+button{background-position:0 -282px;border:0
+none;cursor:pointer;color:#fff;font-weight:700;width:70px;height:24px;vertical-align:middle}.filter .filterForm
+.advanced{float:left;width:auto;margin:0
+0 0 30px;height:21px;line-height:21px}.filter .filterForm .advanced
+ul{float:left}.filter .filterForm .advanced ul
+li{float:left;margin:0
+10px 0 0;height:24px;line-height:24px}.filter .filterForm .advanced ul li
+input{vertical-align:middle;margin:0
+5px 0 0}.filter
+.sorting{padding:0
+10px 0 0}.filter
+.sorting_btns{float:left}.filter .sorting_btns
+a{display:inline-block;color:#666;cursor:pointer}.filter .sorting_btns a:hover{color:#036adc}.filter .sorting_btns .cur a:hover{color:#fff}.filter .sorting_btns a
+span{background:url(http://img1.tuniucdn.com/img/2014070710/list_v3/icon.png) 28px -431px no-repeat}.filter
+li.cur{background:#036adc}.filter .sorting_btns
+.crt{color:#fff;font-weight:700}.filter .sorting_btns .default
+span{background:none;padding-right:0}.filter .sorting_btns a
+b{position:absolute;top:10px;right:3px;width:7px;height:10px}.filter .sorting_btns
+a.time_sort{position:relative;padding:0
+15px 0 0}.filter .sorting_btns a.time_sort
+b{background-position:-7px -144px}.filter .sorting_btns a.time_sort_asc, .filter .sorting_btns
+a.time_sort_desc{color:#f60;font-weight:700}.filter .sorting_btns a.time_sort_asc
+b{background-position:-7px -169px}.filter .sorting_btns a.time_sort_desc
+b{background-position:-7px -196px}.rank_priceform{float:left;position:relative;z-index:2;width:140px;height:20px;line-height:20px;margin:0px
+0 0 0;overflow:visible;white-space:nowrap}.rank_priceform
+.fm_price{position:absolute;padding:4px
+8px 0;overflow:visible}.madai_wrap .rank_priceform
+.fm_price{padding-top:0px}.rank_priceform
+p{padding:0
+0 2px 0}.rank_priceform
+input{border:1px
+solid #d0d0d0;padding:2px;width:50px;height:14px;vertical-align:middle}.rank_priceform
+div.btns{display:none;padding:0
+0 5px 0;text-align:right}.rank_priceform .fm_price
+.reset{cursor:pointer;float:left;text-decoration:underline;margin:5px
+10px 0 0;font-family:'��癸拷娴ｏ拷'}.rank_priceform .fm_price
+.btn{display:inline-block;margin:5px
+0 0 10px}.rank_priceform .fm_price .btn
+button{height:22px;cursor:pointer;height:22px;width:40px;vertical-align:middle}.rank_priceform.focus
+.fm_price{border:1px
+solid #ccc;background:#fff}.rank_priceform.focus
+div.btns{display:block}.single_sift{float:left;margin:0
+10px}.single_sift
+.sift_box{float:left}.single_sift .sift_box
+li{float:left;margin:0
+8px 0 0;display:inline}.single_sift .sift_box li
+label{cursor:pointer}.single_sift .sift_box li label:hover{color:#f60}.single_sift
+.sift_input{vertical-align:middle;margin:0
+3px 0 0}.no_result{border:1px
+solid #ffea95;background:#fffdf2;padding:10px}.filter .sorting_btns
+li{float:left;width:68px;height:32px;padding-top:4px;border-right:1px solid #eaeaea;text-align:center}.filter .sorting_btns li
+a{margin:0;padding:0;line-height:30px\0;*line-height:32px;_line-height:28px}.filter
+.rank_priceform{width:230px;height:36px;border-right:1px solid #eaeaea}.filter .rank_priceform
+.fm_price{width:184px;padding:0
+23px;line-height:36px;_padding-top:5px}.filter .rank_priceform .fm_price
+p{display:inline-block;*display:inline}.filter .rank_priceform .fm_price
+input{}.rank_priceform.focus
+.fm_price{margin:-1px -1px 0}.rank_priceform.focus .fm_price
+.btns{line-height:20px}.rank_priceform
+input{height:16px;width:50px}.filter
+.specil_filter{line-height:36px}.filter .sorting_btns a.dbsort
+span{padding-right:7px;background:url(http://img1.tuniucdn.com/img/2014070710/list_v3/icon.png) no-repeat;background-position:28px -361px}.filter .sorting_btns a.dbsort_desc
+span{background-position:30px -713px;*background-position:28px -713px}.filter .sorting_btns a.dbsort_asc
+span{background-position:30px -688px;*background-position:28px -688px}.filter .sorting_btns .crt
+span{background-position:31px -639px }.list-view{margin-top:-10px;overflow:hidden}.list-view
+li{padding:10px
+9px;margin-top:10px;border:1px
+solid #e6e6e6;background:#fff}.list-view
+li.noborder{border-top:0 none}.list-view
+.bestrec{width:100%;background-color:#f7f7f7;overflow:hidden;z-index:2}.list-view .bestrec
+.aboutimg{display:block;width:160px;height:90px}.list-view .bestrec
+.list_img{display:block;float:left;width:160px;height:90px;margin-right:10px;overflow:hidden}.list-view .bestrec .aboutimg
+img{display:block;width:160px;height:90px}.list-view .bestrec
+.info{float:left;width:550px;height:90px;padding-right:40px;overflow:hidden}.list-view .bestrec .info h3,
+.list-view .bestrec .info h3
+a{color:#333;font:700 16px "Microsoft YaHei";line-height:32px}.list-view .bestrec .info
+p{color:#666;font-size:14px;font-family:"Microsoft YaHei";line-height:18px;overflow:hidden}.list-view
+.eachitem{padding:3px
+0;margin-top:-1px;border-top:1px solid #e6e6e6;z-index:1;zoom:1}.list-view .eachitem:after{content:".";display:block;height:0;clear:both;visibility:hidden}.list-view .eachitem:hover{background-color:#Fafafa}.list-view .eachitem h3
+a{color:#2e9900;font:700 14px/28px Simsun;margin-right:5px}.list-view .eachitem h3 a:hover,.list-view .eachitem h3 a:hover
+span{color:#f00;text-decoration:underline}.list-view .eachitem
+.info{float:right;width:220px;margin-left:10px}.list-view .eachitem .info
+.cusbox{display:inline;float:right;width:100px;padding-right:10px;text-align:right}.list-view .eachitem .info .cusbox
+a{display:block}.list-view .eachitem
+.price{float:left;width:90px;color:#f60;font-family:Arial;line-height:24px}.list-view .eachitem .price
+i{font-style:normal}.list-view .eachitem .price
+b{font:400 20px Arial}.list-view .eachitem .info .cusbox
+span{display:block;line-height:20px}.list-view .eachitem .info span
+em{color:#f60}.list-view .eachitem .info a,.list-view .eachitem .info a:link{color:#666;text-decoration:none;line-height:20px;text-decoration:underline}.list-view .eachitem .info a:hover{color:#f60;text-decoration:underline}.list-view .eachitem
+.date{width:500px;overflow:hidden;height:22px;line-height:26px}.list-view .eachitem .date
+a{word-break:break-all;word-wrap:break-word}.list-view .eachitem .date
+.more_tq{display:inline;margin-left:10px}.list-view .eachitem
+.calendarbox{float:right;width:782px;margin-top:10px}.list-view .detail,
+.list-view .eachitem .date,
+.list-view .eachitem .date a,
+.list-view .eachitem .info,
+.list-view .eachitem .info
+a{color:#666}.tickets{width:778px;padding:0
+10px;border:1px
+solid #e6e6e6;border-top:0 none;background-color:#FFF}.tickets
+li{padding:5px
+0;line-height:28px;margin-bottom:-1px;border:0
+none;border-bottom:1px solid #ebebeb}.tickets .ticketsname,.tickets .satic,.tickets .comments,.tickets .tnPrice,.tickets
+.bookarea{display:inline;float:left;padding:0
+10px;overflow:hidden}.tickets
+.ticketsname{width:328px;padding-left:0}.tickets
+.satic{width:90px}.tickets
+.comments{width:103px;text-align:left}.tickets
+.tnPrice{width:116px;margin-right:0}.tickets .ticketsname
+a{color:#2e9900;font:700 14px/20px Simsun}.tickets .ticketsname a
+em{font-size:12px}.tickets .ticketsname a
+i{color:#f60;font-family:Arial;font-style:normal}.tickets .ticketsname a:hover{color:#f60;text-decoration:underline}.tickets .satic
+i{font-style:normal;color:#f60}.tickets .comments a,.tickets .comments a:link{}.tickets .comments a:hover{color:#f60;text-decoration:underline}.tickets .tnPrice
+b{font-size:20px;font-weight:400}.tickets
+.bookarea{padding-right:0px}.tickets .bookarea
+a{display:inline;float:right;margin-top:4px}.tickets .bookarea
+a{padding-left:15px}.tickets .bookarea
+span{padding-right:15px}.tickets .bookarea a,.tickets .bookarea
+span{font-weight:700;font-size:14px;white-space:nowrap}.modblock{margin-top:10px;overflow:hidden}.modblock
+h2{border-bottom:2px solid #036adc}.modblock h2
+span{margin-right:10px;color:#036adc;font:700 16px/32px "Microsoft YaHei"}.modblock h2 a
+i{color:#036adc}.modblock h2 a:hover,.modblock h2 a:hover
+i{color:#f60;text-decoration:underline}.modblock
+.content{width:800px;overflow:hidden}.block-noborder
+.content{border:0
+none}.hotsite
+.content{overflow:hidden}.hotsite
+ul{width:120%;margin-right:15px;overflow:hidden}.hotsite ul
+li{display:inline;float:left;width:190px;margin:15px
+13px 0 0;border-bottom:1px solid #f5f5f5;background-color:#FFF}.hotsite ul li
+.img{position:relative;width:190px;height:120px;overflow:hidden}.hotsite ul li .img
+img{display:block;width:190px;height:120px}.hotsite ul li .img
+p{position:absolute;bottom:0;left:0;width:180px;height:28px;padding:0
+5px;line-height:28px;background:rgba(0,0,0,0.6);filter:progid:DXImageTransform.Microsoft.Gradient(startColorstr=#99000000,endColorstr=#99000000);overflow:hidden}.hotsite ul li .img p
+b{color:#FFF;font:400 16px/28px "microsoft yahei"}.hotsite ul li .img
+.tnPrice{}.hotsite ul li
+.d{height:33px;padding:0
+5px;border:1px
+solid #f5f5f5;border-top:0 none;border-bottom-color:#ebebeb;color:#555;line-height:32px}.hotsite ul li .d
+.tnPrice{display:inline;float:right;height:34px;line-height:34px;overflow:hidden}.hotsite ul li .d
+a{float:right}.hotsite ul li .d a:hover{color:#f60;text-decoration:underline}.goodblogs h2
+span{color:#f3767f}.goodblogs ul
+li{padding:10px;border:1px
+solid #ebebeb;border-top:0 none;background-color:#FFF}.goodblogs ul li
+h3{color:#036adc;font:400 14px/28px "Microsoft YaHei"}.goodblogs ul li h3
+a{color:#036adc}.goodblogs ul li h3 a:hover{color:#f60;text-decoration:underline}.goodblogs ul li h3
+span{margin-left:20px;color:#666}.goodblogs ul li
+.text{position:relative;margin-top:8px;padding:10px;color:#666;line-height:20px;background-color:#f2f2f2}.goodblogs ul li .text
+b{position:absolute;top:-8px;left:25px;display:block;width:0;height:0;border-width:0px 7px 8px 7px;border-style:solid;border-color:#fff #fff #f2f2f2 #fff;font-size:0;line-height:0}.goodblogs ul li
+.aboutimg{height:80px;margin-top:10px}.goodblogs ul li .aboutimg
+.imgcon{display:inline;float:left;width:715px;height:80px;margin-left:11px;overflow:hidden}.goodblogs ul li .aboutimg
+.btn{display:inline;height:80px;width:20px;background:url(http://img1.tuniucdn.com/img/2014061215576/list_v3/nsprite.png) no-repeat}.goodblogs ul li .aboutimg
+.prev{float:left;background-position:0 0}.goodblogs ul li .aboutimg .prev:hover{background-position:-42px 0}.goodblogs ul li .aboutimg
+.next{float:right;background-position:-21px 0}.goodblogs ul li .aboutimg .next:hover{background-position:-63px 0}.goodblogs ul li .aboutimg
+.list{overflow:hidden}.goodblogs ul li .aboutimg .list
+a{display:inline;float:left;width:110px;height:80px;margin:0;margin-right:11px}.goodblogs ul li .aboutimg
+img{display:block;width:110px;height:80px}.side-content{width:190px}.dacon{width:188px;border:1px
+solid #eaeaea;overflow:hidden}.dacon
+a{display:block;border-top:1px solid #eaeaea}.dacon
+img{display:block}.side-content
+.block{background-color:#fff}.side-content .rec-pro{margin-top:0;margin-bottom:15px}.side-content .block h3
+.more{font-size:12px;color:#999;margin-left:5px}.side-content .block
+h3{padding-left:10px;border:1px
+solid #eaeaea;border-bottom:0 none;color:#333;font:400 16px/30px "Microsoft YaHei"}.side-content .guid
+h3{background-position:0 -185px}.side-content .rec-pro
+h3{background-position:0 -210px}.block
+.c{padding:11px
+9px 9px;border:1px
+solid #eaeaea;border-top:0 none}.block .c
+.viewpoint{overflow:hidden}.block .c .viewpoint
+a{display:inline;float:left;width:85px;height:28px;color:#666;line-height:28px;overflow:hidden;word-break:break-all;word-wrap:break-word}.block .c .viewpoint a:hover{color:#f80;text-decoration:underline}.block .c
+.download{margin-top:15px}.block .c .download dt,.block .c .download
+dd{display:inline;float:left}.block .c .download
+dt{width:80px;padding:3px;border:1px
+solid #eaeaea;box-shadow:0px 0px 5px #ccc}.block .c .download dt
+img{display:block;width:80px;height:115px}.block .c .download
+dd{position:relative;width:75px;height:120px;margin-left:5px}.block .c .download dd
+p{color:#666}.block .c .download dd
+em{display:inline-block;margin-top:10px;color:#999}.block .c .download dd
+.downloadbtn{position:absolute;bottom:0;right:0;display:block}.block .c .download dd
+.downloadbtn{padding-left:5px}.block .c .download dd .downloadbtn
+span{padding-right:5px}.block .c .download dd .downloadbtn
+i{display:inline-block;width:14px;height:14px;background:url(http://img1.tuniucdn.com/img/2014070710/list_v3/icon.png) 0 -244px no-repeat;vertical-align:-3px;*vertical-align:-2px}.rec-pro .c,.mayinterest
+.c{padding:6px
+14px 9px}.rec-pro
+ul{margin-top:-10px}.rec-pro ul
+li{margin-top:10px}.rec-pro ul li a,.mayinterest ul li
+a{position:relative;display:block;width:160px;margin-bottom:5px}.rec-pro ul li
+a.pro_rec_img{height:90px;overflow:hidden}.rec-pro ul li a img,.mayinterest ul li a
+img{display:block;width:160px;height:90px}.rec-pro ul li a
+span{position:absolute;bottom:0;left:0;display:block;padding:2px
+5px;width:150px;color:#fff;background:rgba(0,0,0,0.6);filter:progid:DXImageTransform.Microsoft.Gradient(startColorstr=#99000000,endColorstr=#99000000)}.side-content .mayinterest
+h3{background:none}.mayinterest ul li a
+span{position:absolute;bottom:0px;right:0;height:25px;padding:0
+10px;color:#fff;font-size:14px;background:#68cc3d;line-height:25px;font-family:"Microsoft YaHei"}.mayinterest
+ul{margin-top:-20px}.mayinterest ul
+li{margin-top:25px}.u-history{margin-top:15px;border:1px
+solid #eaeaea;background-color:#FFF}.u-history
+h3{height:34px;color:#666;font:400 14px/34px "Microsoft YaHei";text-align:center}.u-history h3
+i{color:#f60;font-family:arial}.u-history
+.viewall{display:block;height:13px;border-top:1px solid #EAEAEA;background:#fafafa url(http://img1.tuniucdn.com/img/2014070710/list_v3/icon.png) no-repeat center -269px}.u-history .viewall-on{background-position:center -568px}.u-history
+.c{overflow:hidden}.u-history
+.hisbox{padding:5px
+14px;border-top:1px solid #eaeaea;overflow:hidden}.u-history .c
+li{padding-top:10px;border-bottom:1px dotted #dbdbdb}.u-history .c li
+img{display:block;width:160px;height:90px}.u-history .c li
+p{padding:5px
+0 5px 20px}.u-history .c li p
+input{display:inline;float:left;margin-left:-20px;margin-top:4px;*margin-top:0px}.u-history .c li
+div{line-height:28px;color:#666}.u-history .c li
+.tnPrice{float:right}.u-history .c .compare-box{padding:10px
+0;text-align:center;overflow:hidden}.u-history .c .compare-btn{float:left;margin-left:25px;font-weight:700;font-size:14px}.u-history .c .compare-box
+.clearp{float:left;display:inline-block;margin-left:10px;line-height:24px;color:#036adc;vertical-align:middle}.add_to_favorite,.online_consultation,.comparison_bg{float:left;display:inline-block;border:0
+none;width:74px;height:22px;background:url(http://img1.tuniucdn.com/img/2014061215576/list_v3/btnsprite.png) no-repeat;cursor:pointer;text-indent:-200%;overflow:hidden}.add_to_favorite{background-position:0px -226px}.add_to_favorite:hover{background-position:0px -249px}.add_to_favorite.on,.add_to_favorite.on:hover{background-position:0px -272px}.comparison_bg.select:hover{background-position:0px -318px}.comparison_bg,.comparison_bg:hover{background-position:0px -341px}.comparison_bg.select{background-position:0px -295px}.comparison_bg{position:relative}.comparison_bg
+input{position:absolute;top:0px;left:0;width:100%;height:100%;opacity:0;margin-right:5px;_margin-right:3px;filter:alpha(opacity=0);cursor:pointer;outline:none}.ylcorner,.zzcorner,.gtcorner,.mpcorner,.zjycorner,.ddycorner{display:block;width:40px;height:24px;background:url(http://img1.tuniucdn.com/img/2014061215576/list_v3/nsprite.png) no-repeat 0 -80px;overflow:hidden}.zzcorner{background-position:-41px -80px}.gtcorner{background-position:-82px -80px}.mpcorner{width:53px;background-position:-123px -80px}.zjycorner{background-position:0 -104px}.ddycorner{background-position:-41px -104px}
+.thelist{margin-top:15px}
+.thebox{}
+.thebox li{ width:978px;padding:15px
+10px 10px;margin-bottom:15px;border:1px
+solid #ebebeb;background-color:#Fff;_padding-bottom:25px}.thebox li:hover{border:1px
+solid #f80}.thebox
+.calendarbox{margin-top:10px}.thebox li
+.theinfo{width:978px;position:relative}.theinfo .imgbox,.theinfo .detail,.theinfo
+.priceinfo{display:inline;float:left}.theinfo
+.imgbox{width:160px;margin-right:10px}.theinfo .imgbox .img,.theinfo .imgbox .img
+img{display:block;width:160px;height:90px}.theinfo .imgbox
+.img{position:relative}.theinfo .imgbox .img
+i{position:absolute;top:0px;left:-4px}.theinfo .imgbox
+.sat{margin-top:5px;color:#666;line-height:24px}.theinfo .imgbox .sat
+i{color:#f60}.theinfo .imgbox .sat
+.comments{float:right;color:#666}.theinfo .imgbox
+.btnbox{margin-top:5px;display:none}.theinfo .imgbox
+.add_to_favorite{float:left}.theinfo .imgbox
+.comparison_bg{float:right}.theinfo
+.detail{width:650px}.theinfo
+.detail{margin-top:-4px;padding-bottom:5px;_margin-top:0}.theinfo .detail
+.title{font:700 14px/28px Simsun}.theinfo .detail
+.subtitle{color:#666}.theinfo .detail .title
+a{color:#036adc}.theinfo .detail .title a:hover{color:#f00;text-decoration:underline}.theinfo .detail .title a:hover
+.f_0053aa{color:#F00}.theinfo .detail
+.subtitle{line-height:24px;_margin-top:5px;overflow:hidden}.theinfo .detail
+dd{color:#666;line-height:22px}.theinfo .detail dd.port
+span{margin-right:40px}.theinfo .detail dd.tqs
+a{margin-left:10px;color:#666}.theinfo .detail
+dd.overview{max-height:66px;overflow:hidden;_height:44px}.theinfo
+.priceinfo{width:100px;float:right;margin-top:-15px;position:relative;overflow:hidden}.theinfo .priceinfo .yhicon,.zdyh-icon,.ljyh-icon,.ytyy-icon{display:block;float:left;width:88px;height:34px;margin-bottom:-100%;margin-right:20px;background:url(http://img1.tuniucdn.com/img/2014061215576/list_v3/nsprite.png) 0 -129px no-repeat;overflow:hidden}.ljyh-icon{background-position:0 -163px}.ytyy-icon{background-position:0 -198px}.theinfo .priceinfo
+.tnPrice{display:block;margin-top:34px}.theinfo .priceinfo .tnPrice
+em{font-size:24px}.yhd,.yhd
+em{display:block;height:14px;background:url(http://img1.tuniucdn.com/img/2014061215576/list_v3/btnsprite.png) left -209px no-repeat;_display:inline-block}.yhd
+em{padding-right:5px;color:#f60;background-position:right -209px;line-height:14px}.yhd{float:left;padding-left:70px}.theinfo .priceinfo
+.sbtn{margin-top:25px;padding-left:30px}.theinfo .priceinfo .sbtn
+span{padding-right:30px;font-size:14px;font-weight:700}.d_des{background:url(http://img1.tuniucdn.com/img/20140417/common/egg.png);background-position:0 2px;color:#F60;vertical-align:middle;display:block;float:left;font-size:12px;font-weight:bold;height:17px;margin:0
+0 0 5px;overflow:hidden;padding:0
+0 0 18px}.d_des
+em{float:left;display:block;padding-right:4px;overflow:hidden}.d_des
+em{background:url(http://img3.tuniucdn.com/img/20140314/common/dr.png) right center no-repeat}.dj,.dm,.ds,.df,.d_des{line-height:18px!important}.df{background:url(http://img1.tuniucdn.com/img/20140417/common/egg.png);background-position:0 -162px}.df{color:#F60;display:block;float:left;font-size:12px;font-weight:bold;height:17px;margin:0
+0 0 5px;overflow:hidden;padding:0
+0 0 18px;vertical-align:middle}.df
+em{background:url("/site/images/common/dr.png") no-repeat scroll right center rgba(0, 0, 0, 0)}.df
+em{display:block;float:left;overflow:hidden;padding-right:4px}.mtp13{margin-top:13px}.icon_tip,.icon_r,.icon_t,.icon_tuan{display:inline-block;background:url(http://img2.tuniucdn.com/img/2014070710/hotel_v2/icon.png) no-repeat}.fan{background-position:-112px -96px;display:inline-block;height:18px;margin-top:3px;padding-left:21px;overflow:hidden}.fan
+span{border-right:1px solid #036adc;color:#036adc;float:left;font-size:12px;height:18px;line-height:18px;overflow:hidden;padding-right:3px}.danbao{width:25px;height:14px;background-position:-112px -145px}.icon_r{width:4px;height:7px;background-position:-191px -4px;margin-left:5px}.icon_t{width:7px;height:4px;background-position:-184px -11px;;margin-left:5px}.icon_tuan{display:inline-block;width:25px;height:14px;line-height:14px;background-position:-163px -115px;margin-left:1px;margin-top:14px}.popTip{display:none}.popBox{background:none repeat scroll 0 0 #FFF;border:1px
+solid #E3E3E3;box-shadow:2px 2px 2px #999;position:absolute;z-index:1000}.popCon{font-size:12px;padding:10px;font-style:normal;display:inline-block;width:300px}.ticketlist{margin-top:5px;overflow:hidden}.ticketlist .list-thead{height:24px;color:#999;line-height:24px;background-color:#f2f2f2;overflow:hidden}.ticketlist .n,
+.ticketlist .p,
+.ticketlist .tp,
+.ticketlist .pt,
+.ticketlist
+.op{display:inline;float:left;padding:0
+5px}.ticketlist
+.n{width:340px}.ticketlist
+.p{width:90px;text-align:center;font-family:arial}.ticketlist
+.tp{width:160px}.ticketlist
+.pt{display:none;width:70px;text-align:center}.ticketlist
+.op{}.ticketlist .each-item .n,
+.ticketlist .each-item .p,
+.ticketlist .each-item .tp,
+.ticketlist .each-item .pt,
+.ticketlist .each-item
+.op{line-height:42px}.ticketlist .each-item .p,
+.ticketlist .each-item
+.pt{color:#999}.ticketlist .each-item{width:100%;border-bottom:1px solid #eee;overflow:hidden}.ticketlist .each-item
+p{line-height:42px}.ticketlist .each-item .n
+.tktname{float:left;color:#036adc}.ticketlist .each-item .n
+.ds{margin-top:13px;line-height:18px}.ticketlist .each-item .tp .tnPrice,
+.ticketlist .each-item .tp
+.d_des{float:left}.ticketlist .each-item .tp
+.d_des{padding-left:70px;margin-top:13px}.ticketlist .each-item .op
+.sbtn{float:left;margin-top:10px;padding-left:15px}.ticketlist .each-item .op .sbtn
+span{padding-right:15px;font-weight:700;font-size:14px}.ticketlist .each-item .op
+.buystate{display:inline;float:left;margin:11px
+0 0 10px;width:54px;height:22px;background:url(http://img1.tuniucdn.com/img/2014061215576/list_v3/nsprite.png) -84px 0 no-repeat}.ticketlist .each-item .op
+.buyed{background-position:-84px -23px}.ticketlist .each-item
+.tktinfo{clear:both;padding:10px;color:#999;line-height:22px;background-color:#f2f2f2;overflow:hidden}.ticketlist .each-item .tktinfo
+strong{font-weight:700}.ticketlist
+.viewmore{margin-top:10px;overflow:hidden}.ticketlist .viewmore
+a{float:right;color:#036adc}.hotelbox
+.iconbox{padding-top:5px;overflow:hidden}.hotelbox .iconbox
+.viewmap{display:inline-block;width:73px;height:22px;margin-right:10px;background:url(http://img1.tuniucdn.com/img/2014061215576/list_v3/btnsprite.png) no-repeat -73px -94px;vertical-align:middle}.hotelbox .iconbox
+span{}.hotelbox .iconbox .icon-taxi{background-position:0 -483px}.hotelbox .iconbox .icon-wifi{background-position:0 -510px}.hotelbox .iconbox .icon-park{background-position:0 -542px}.hotelbox .tp
+.fan{margin:13px
+0 0 0px}.hotelbox
+.star{position:relative;display:inline-block;height:16px;width:94px;margin-bottom:-2px;margin-left:10px;background:url(http://img1.tuniucdn.com/img/2014061215576/list_v3/nsprite.png) no-repeat -84px -63px}.hotelbox .star
+i{position:absolute;top:0;left:0;display:inline-block;height:16px;background:url(http://img1.tuniucdn.com/img/2014061215576/list_v3/nsprite.png) no-repeat -84px -46px}.hotelbox .star1
+i{width:19px}.hotelbox .star2
+i{width:38px}.hotelbox .star3
+i{width:57px}.hotelbox .star4
+i{width:76px}.hotelbox .star5
+i{width:94px}.hotelbox .each-item-detail{display:none}.hotelbox .each-item-detail .n-box{width:100%;overflow:hidden}.hotelbox .opt-box{overflow:hidden}.hotelbox .each-item-detail .n
+a{color:#036adc}.hotelbox .each-item-detail
+.roominfo{padding:10px;height:24px;color:#666;background-color:#f8f8f8;line-height:24px}.hotelbox .each-item-detail .roominfo
+span{margin-right:10px}.hotelposition{overflow:visible!important;z-index:100!important}.hotelposition
+li.hboxs{position:relative;display:inline;float:left;margin-right:10px!important;padding-left:20px!important;padding-right:20px!important;color:#666;z-index:100;cursor:pointer}.hotelposition li.hboxs
+span{display:inline-block;height:16px;line-height:16px;margin:2px
+0;padding-top:2px}.hotelposition li.hboxs
+i{display:inline-block;width:7px;height:4px;margin-left:3px;background:url(http://img1.tuniucdn.com/img/2014070710/list_v3/icon.png) no-repeat 0 -377px;font-size:0;line-height:0;vertical-align:middle;overflow:hidden}.hotelposition li.hboxs
+i.on{background-position:0 -371px}.hotelposition li
+.hlists{position:absolute;left:0;top:32px;padding:5px
+10px;background-color:#fff4e5;display:none;z-index:200}.hotelposition li .hlists
+label{display:block;line-height:24px}.hotelposition li .hlists label
+input{margin-right:4px;vertical-align:middle;font-family:tahoma}.tktname .icon_r,.tktname
+.icon_t{_vertical-align:-4px}.hotelbox
+.tktname{_padding-top:10px}.prop_list dd .calendar
+div{z-index:99}.zizhubox .theinfo .detail
+.subtitle{}.zizhubox .theinfo .detail dd.tqs
+a{margin-left:0}.menpiaobox .theinfo .detail .title
+i{margin-left:10px;color:#f60;font:400 12px "Microsoft YaHei"}.menpiaobox .theinfo .detail dd,.hotelbox .theinfo .detail
+dd{color:#333}.menpiaobox .theinfo .detail
+dd.specical{color:#999;max-height:66px;overflow:hidden;_height:66px}.menpiaobox .theinfo
+.priceinfo{margin:0;padding-top:10px}.hotelbox .ticketlist
+.n{width:190px}.hotelbox .ticketlist
+.b{display:inline;float:left;width:80px;text-align:left}.hotelbox .ticketlist
+.br{display:inline;float:left;width:140px}.hotelbox .ticketlist
+.tp{width:230px}.hotelbox .ticketlist
+.op{width:100px}.hotelbox .ticketlist .each-item .n,
+.hotelbox .ticketlist .each-item .b,
+.hotelbox .ticketlist .each-item .tp,
+.hotelbox .ticketlist .each-item .br,
+.hotelbox .ticketlist .each-item
+.op{line-height:42px;height:42px;overflow:hidden}.cusprice{display:inline;float:left;background-color:#fff!important;color:#666}.cusprice
+input{padding:2px
+6px;width:48px;height:18px;border:1px
+solid #ccc;vertical-align:0}.floortitle{margin-top:10px;font:700 16px/34px "Microsoft YaHei"}.list-view
+li{border-top-width:2px;border-top-color:#b3b3b3}.list-view li:hover{border-width:2px;padding:10px
+8px 9px;border-color:#59b712}.cl59b712
+.floortitle{color:#59b712}.cl5194dd
+.floortitle{color:#5194dd}.cl60c087
+.floortitle{color:#60c087}.cld36ec3
+.floortitle{color:#d36ec3}.tickets{border-top:1px solid #e6e6e6}.tickets
+li{margin-top:10px}.floattabcontainer{display:none;width:100%;min-width:1000px;height:36px;border-top:1px solid #e6e6e6;border-bottom:1px solid #e6e6e6;box-shadow:1px 2px 2px #f0f0f0;background-color:#FFF;z-index:1000}.float-tab{height:36px}.float-tab
+ul{height:36px;overflow:hidden}.float-tab
+li{display:inline;float:left;height:36px;margin-left:-1px}.float-tab li
+a{display:block;height:26px;padding:0
+20px;margin-top:5px;border-left:1px solid #e7e7e7;line-height:26px;font:400 16px/26px "Microsoft YaHei"}.float-tab li.cur,.float-tab li.on,.float-tab li:hover{position:relative;background-color:#59b712}.float-tab li.cur a,.float-tab li.on a,.float-tab li:hover
+a{border-color:#59b712;color:#FFF}.tpbox{padding-top:7px}.tpbox
+.citybox{display:inline;float:left;margin-top:0px}.tpbox .citybox .moreplace,.tpbox .citybox .cityname,.tpbox .citybox .i-con{display:inline;float:left}.tpbox .citybox
+.moreplace{padding:0
+5px;border:1px
+solid #fff;border-bottom:0 none;background-color:#FFF;position:relative;z-index:3}.tpbox .citybox
+.cityname{margin-right:10px;color:#666;font:400 28px/36px "Microsoft YaHei"}.tpbox .citybox .i-con{margin-top:15px}.tpbox .citybox
+.moreplace{margin-top:13px;margin-right:15px;height:20px;font-size:12px;color:#666}.tpbox .citybox .moreplace-on{border-color:#fdbb6e}.tpbox .citybox .moreplace
+i{}.tpbox .citybox .i-con{padding-left:45px;color:#ffa641;background:url(http://img1.tuniucdn.com/img/2014061215576/list_v3/nsprite.png) no-repeat -160px 3px}.tpbox
+.satisbox{display:inline;float:right}.tpbox .satisbox dt,.tpbox .satisbox
+dd{display:inline;float:left}.tpbox .satisbox
+.satpercent{margin-right:10px;color:#f80;overflow:hidden}.tpbox .satisbox .satpercent span,.tpbox .satisbox .satpercent em,.tpbox .satisbox .satpercent
+i{display:inline;float:left}.tpbox .satisbox .satpercent
+span{font-size:12px;font-family:"Microsoft YaHei"}.tpbox .satisbox .satpercent
+i{font-size:12px;font-family:Tahoma}.tpbox .satisbox .satpercent span,.tpbox .satisbox .satpercent
+i{margin-top:20px}.tpbox .satisbox .satpercent
+em{font-family:tahoma;font-size:36px;line-height:40px}.tpbox .satisbox
+dd{height:39px;padding-left:85px;color:#636363;background:url(http://img1.tuniucdn.com/img/2014061215576/list_v3/nsprite.png) no-repeat}.tpbox .satisbox dd
+p{color:#F80;font-family:Arial;font-weight:700}.tpbox .satisbox
+dd.traveled{width:78px;background-position:-127px -129px}.tpbox .satisbox
+dd.comments{width:70px;background-position:-127px -169px}.parttabbox{margin-top:15px;width:100%;border-bottom:2px solid #036adc}.parttabbox ul
+li{display:inline;float:left;height:40px}.parttabbox ul li
+a{color:#6e899a;font:400 14px/20px "Microsoft YaHei";text-decoration:none;padding:0
+10px}.parttabbox ul li a:hover{background:#f3f7fa;text-decoration:none}.parttabbox ul
+li.cur{position:relative;height:41px}.parttabbox ul li.cur a,.parttabbox ul li.cur a:hover,.parttabbox ul li.cur span,.parttabbox ul li.cur span:hover{color:#FFF;font-weight:700}.parttabbox .wrap
+.subparttab{float:left;width:628px;height:41px;color:#6e899a}.parttabbox .subparttab
+li{border-top:1px solid #d6d6d6;border-right:1px solid #d6d6d6}.parttabbox .subparttab
+li.first{border-left:1px solid #d6d6d6}.parttabbox .subparttab
+a{display:inline;float:left;color:#6e899a;font:400 14px/40px "Microsoft YaHei"}.parttabbox .subparttab
+a.cur{background:#6e899a;color:#fff}.prop_list .showCheckBox
+.multioption{display:none}.prop-list-new
+.multioption{position:absolute;right:20px;top:6px;width:90px;overflow:hidden;display:block}.prop-list-new .multioption
+a{display:inline;float:left;margin-left:10px}.prop-list-new .multioption
+.multipleselect{height:18px;padding:0
+5px 0 18px;border:1px
+solid #e4e4e4;color:#626262;line-height:16px;background:url(http://img.tuniucdn.com/img/20140417/common/add.png) no-repeat 4px 4px;*line-height:20px;_line-height:16px}.prop-list-new .multioption .multipleselect:hover{color:#F60;background-position:4px -16px}.prop-list-new .multioption
+.moreselector{float:right;width:20px;height:20px;background:url(http://img1.tuniucdn.com/img/2014070710/list_v3/icon.png) no-repeat 0 -301px;overflow:hidden;text-indent:-200%}.prop-list-new .multioption .moreselector-o{background-position:0 -322px}.prop-list-new .hasMoreChoice,.prop-list-new
+.mult_select{position:relative}.filter .sorting_btns
+.mulcity{position:relative;width:100px!important;height:36px;padding-top:0px!important;overflow:visible;z-index:100}.filter .mulcity
+.mulcityhandler{position:absolute;left:0;top:0px;display:block;width:98px;height:33px;border:1px
+solid #fff;border-bottom:0 none;line-height:34px;background-color:#fafafa;z-index:2;_padding-top:8px;_height:23px}.filter .mulcity .mulcityhandler
+i{display:inline-block;width:7px;height:4px;margin-left:3px;background:url(http://img1.tuniucdn.com/img/2014070710/list_v3/icon.png) no-repeat 0 -377px;overflow:hidden;vertical-align:middle;-moz-transform-origin:50% 50%;-webkit-transition:-webkit-transform .2s ease-in;-moz-transition:transform .2s ease-in;-o-transition:transform .2s ease-in;transition:transform .2s ease-in}.filter .mulcity .mulcityhandler-on{top:-1px;left:-1px;border-color:#fdbb6e;padding:1px;padding-bottom:0;height:36px;background-color:#fff;_height:28px;_padding-top:9px}.filter .mulcity .mulcityhandler-on
+i{transform:rotate(180deg);-webkit-transform:rotate(180deg);-moz-transform:rotate(180deg);-o-transform:rotate(180deg);background-position:0px -371px\0;*background-position:0px -371px}.filter .mulcity
+.mulcitybox{position:absolute;top:36px;left:-1px;width:277px;padding:0
+15px 10px;border:1px
+solid #fdbb6e;background-color:#fff;z-index:0;display:none}.filter .mulcity .mulcitybox
+a{display:inline;float:left;padding:0
+3px;margin:10px
+10px 0;line-height:20px;white-space:nowrap}.filter .mulcity .mulcitybox a:hover,
+.filter .mulcity .mulcitybox
+a.on{color:#FFF;background-color:#f80}.parttabbox
+.parttoptab{float:right;text-align:right;height:41px}.parttabbox .parttoptab
+li{height:41px;margin:0
+8px;display:inline}.parttabbox .parttoptab
+a{color:#6e899a;font:400 14px/41px "Microsoft YaHei";text-decoration:none;padding:2px
+8px;position:relative}.parttabbox .parttoptab a:hover{background:#f3f7fa;text-decoration:none}.parttabbox .parttoptab .cur
+a{background:#6e899a;color:#fff}.parttabbox .parttoptab li
+i{width:9px;height:5px;background:url(http://img1.tuniucdn.com/img/201407071014/list_v3/icon.png) no-repeat;background-position:0 -757px;top:23px;_top:25px;margin-left:-6px;overflow:hidden;position:absolute;left:50%;display:none}.parttabbox .parttoptab .cur i, .parttabbox .subparttab a:hover
+i{display:block}.parttabbox
+.title_tag_bg{height:31px;background:#6e899a;color:#fff;line-height:31px}.parttabbox
+.list_weather{float:left;width:550px;padding-left:10px}.parttabbox .title_tag_bg
+.subrightcont{float:right}.parttabbox .title_tag_bg .subrightcont
+a{color:#fff;font:400 12px/33px "Microsoft YaHei";text-decoration:none;padding:0px
+5px}.parttabbox .title_tag_bg .subrightcont a.cur, .parttabbox .title_tag_bg .subrightcont a:hover{background:#8ba9bc;height:33px}.nrgt-icon,.nrzx-icon,.rm-icon,.tejia-icon,.tuijian-icon,.th-icon,.zjy-icon,.nrzz-icon,.bus-icon,.xyj-icon,.wifi-icon,.dpfx-icon,.ndj-icon,.gsly-icon,.xh-icon,.gty-icon,.zzy-icon,.ddy-icon,.yly-icon,.s-ljyh-icon,.s-jfyh-icon,.s-zdyh-icon,.eightyear-icon{display:inline-block;height:14px;margin-right:3px;background:url(http://img1.tuniucdn.com/img/20141111/list_v3/service-icon.png) no-repeat;overflow:hidden;vertical-align:-2px;margin-bottom:-1px;*vertical-align:0}.nrgt-icon{width:49px;background-position:0 -82px}.nrzx-icon{width:49px;background-position:0 -97px}.rm-icon{width:39px;background-position:0 -112px}.tejia-icon{width:39px;background-position:0 -127px}.tuijian-icon{width:39px;background-position:0 -142px}.th-icon{width:49px;background-position:0 -157px}.zjy-icon{width:39px;background-position:0 -217px}.nrzz-icon{width:49px;background-position:0 -232px}.bus-icon{width:60px;background-position:0 -247px}.xyj-icon{width:72px;background-position:-102px -250px}.wifi-icon{width:63px;background-position:-102px -265px}.dpfx-icon{width:63px;background-position:-102px -280px}.ndj-icon{width:49px;background-position:-102px -295px}.gsly-icon{width:49px;background-position:0 -322px}.xh-icon{width:39px;background-position:0 -172px}.gty-icon{width:39px;background-position:0 -262px}.zzy-icon{width:39px;background-position:0 -277px}.ddy-icon{width:39px;background-position:0 -292px}.yly-icon{width:39px;background-position:0 -307px}.s-ljyh-icon{width:49px;background-position:-102px -205px}.s-jfyh-icon{width:49px;background-position:-102px -220px}.s-zdyh-icon{width:49px;background-position:-102px -235px}.eightyear-icon{width:64px;background-position:-344px -87px}.list-view
+.detail{_margin-top:3px}.specil_filter{width:170px}.scrollbar_color{scrollbar-arrow-color:#505050;scrollbar-base-color:#f5f5f5;scrollbar-dark-shadow-color:#f5f5f5;scrollbar-track-color:#f1f1f1;scrollbar-face-color:#e5e5e5;scrollbar-shadow-color:#f5f5f5;scrollbar-highlight-color:#f0f0f0;scrollbar-3d-light-color:#fff}.notice{width:800px;background-color:#FFF}#ask_block{padding-bottom:10px;background-color:#FFF}.linksbox{border-top:1px solid #EAEAEA;background-color:#FFF}.linksbox .hotsearch,.linksbox
+dl{margin-top:10px}.linksbox
+.hotsearch{padding:0
+10px;overflow:hidden}.linksbox .hotsearch b,.linksbox .hotsearch
+a{display:inline;float:left;margin-right:15px;color:#999;font-family:"Microsoft YaHei";line-height:24px;white-space:nowrap}.linksbox .hotsearch
+b{color:#888}.linksbox
+dl{padding:0
+10px}.linksbox dl
+dt{font-weight:700;color:#888;font-family:"Microsoft YaHei"}.linksbox dl
+dd{margin-top:5px;overflow:hidden}.linksbox dl dd
+a{display:inline;float:left;margin-right:30px;color:#b5b5b5;font-family:"Microsoft YaHei";line-height:24px;white-space:nowrap}.linksbox a:hover{color:#F60}.teambox{margin-bottom:-15px}.teambox li,li.company{position:relative;width:616px;padding:15px
+0 15px 180px;padding-left:180px!important}.teambox li .photo,
+li.company
+.photo{position:absolute;top:20px;left:10px;box-shadow:none}.teambox li .photo a,
+li.company .photo
+a{display:table-cell;vertical-align:middle;text-align:center;width:160px;height:90px}.teambox li .photo a img,
+li.company .photo a
+img{margin:-15px 0 0 0px;width:160px}.teambox h3,
+li.company
+h3{width:600px;height:23px;overflow:hidden;font-size:14px;margin:0
+0 3px}.teambox h3 a,
+li.company h3
+a{font-weight:700;color:#036adc}.teambox h3 a:hover,
+.teambox h3 a:hover span
+li.company h3 a:hover,
+li.company h3 a:hvoer
+span{color:#f00!important;text-decoration:underline}.teambox .company_tour,
+li.company
+.company_tour{color:#999;height:72px;width:440px;overflow:hidden;line-height:1.9}.teambox .company_price,
+li.company
+.company_price{position:absolute;top:0px;right:10px;line-height:1.9}.teambox .company_price .ytyy-icon,
+li.company .company_price .ytyy-icon{margin-right:0;font-size:24px;color:#f60}.route_gonglue{background-color:#fff}.route_gonglue
+h3.route_gonglue{margin-top:0}.company_price{color:#666}.company_price
+.company_mar{margin-top:10px;text-align:right}.company_price
+p{width:130px;line-height:24px;height:24px}.company_price
+.cp_color{font:400 14px/28px Simsun;color:#f60}.list-view
+li{padding-bottom:1px}.list-view li:hover{padding-bottom:0px}.morelinebtnbox{width:998px;height:40px;margin-left:-9px;background-color:#f8ffed;line-height:40px;border-top:1px solid #e6e6e6;overflow:hidden;text-align:center}.list-view
+.bigcons{padding-bottom:0px;overflow:hidden}.morelinebtnbox
+a{display:inline-block;width:300px;color:#666;_margin-top:6px;font-size:16px;font-family:"microsoft yahei"}.morelinebtnbox a
+span{cursor:pointer}.morelinebtnbox a
+i{display:inline-block;width:10px;height:6px;margin-left:5px;background:url(http://img1.tuniucdn.com/img/2014070710/list_v3/icon.png) no-repeat -13px -349px;overflow:hidden;font-size:0;line-height:0}.morelinebtnbox a.on
+i{background-position:0 -351px}.shipbox
+li{_padding-bottom:10px}.specil_filter p
+input{margin-right:2px;margin-left:5px}.noborder{border:0
+none!important}.list-view
+.showMoreList{border-top-width:1px;background:#fafafa;padding-top:0;border-top:1px solid #e6e6e6;height:28px;line-height:28px;padding-bottom:0;margin-top:20px;height:40px;line-height:40px;background:#f8ffed}.list-view .showMoreList:hover{padding-top:0;padding-bottom:0;border:1px
+solid #e6e6e6}.showMoreList
+.showmorebtnbox{text-align:center;color:#999}.showMoreList .showmorebtnbox
+a{display:inline-block;width:300px;color:#666;_margin-top:6px;font-size:16px;font-family:"microsoft yahei"}.showMoreList .showmorebtnbox a:hover{color:#036adc}.showMoreList .showmorebtnbox
+i{display:inline-block;width:5px;height:12px;margin-left:5px;vertical-align:middle;background:url(http://img1.tuniucdn.com/img/2014070710/list_v3/icon.png) no-repeat 0 -624px;overflow:hidden;font-size:0;line-height:0}.iconbox
+span{display:inline-block;width:16px;height:16px;margin-left:7px;background:url("http://img2.tuniucdn.com/img/20140106/hotel_v2/themes.png") no-repeat;vertical-align:middle}.iconbox
+.wifi{background-position:-338px -66px}.iconbox
+.broadband{background-position:-358px -66px}.iconbox
+.map{background-position:-378px -66px}.iconbox
+.dryer{background-position:-398px -66px}.iconbox
+.tv{background-position:-418px -66px}.iconbox
+.nosmoking{background-position:-438px -66px}.iconbox
+.nopets{background-position:-458px -66px}.iconbox
+.spa{background-position:-478px -66px}.iconbox
+.exercise{background-position:-498px -66px}.iconbox
+.parking{background-position:-519px -66px}.iconbox
+.taxi{background-position:-538px -66px}.iconbox
+.airport{background-position:-558px -66px}.iconbox
+.subway{background-position:-578px -66px}.iconbox
+.kitchen{background-position:-598px -66px}.iconbox
+.ironing{background-position:-618px -66px}.iconbox
+.swimming{background-position:-638px -66px}.iconbox
+.breakfastg{background-position:-658px -66px}.iconbox
+.fax{background-position:-680px -66px}.iconbox
+.meeting_room{background-position:-704px -66px}.menpiaobox .ticketlist .each-item
+.op{width:140px;overflow:hidden}.menpiaobox .ticketlist .each-item .op
+form{display:inline;float:left;margin-top:10px;line-height:25px}.menpiaobox .ticketlist .each-item .op
+.tkt_sub{width:60px;height:25px;border:0
+none;background:url(http://img1.tuniucdn.com/img/2014061215576/list_v3/btnsprite.png) no-repeat 0 -364px;text-indent:-200%;cursor:pointer;overflow:hidden}.menpiaobox .ticketlist .each-item .op .tkt_sub:hover{background-position:0 -390px}.menpiaobox .ticketlist .add_ticket_package .add_to,
+.menpiaobox .ticketlist .add_ticket_package
+.had_add{float:left;margin:11px
+0 0 0px;width:54px;height:22px;background:url(http://img1.tuniucdn.com/img/2014061215576/list_v3/nsprite.png) -84px 0 no-repeat;text-indent:-200px;line-height:22px;overflow:hidden}.menpiaobox .ticketlist .add_ticket_package
+.add_to{cursor:pointer}.menpiaobox .ticketlist .add_ticket_package
+.had_add{background-position:-84px -23px}.list_cont{background-color:#fff}.new_comment
+.c{padding:10px
+0 10px 14px}.new_comment
+.comment_con{width:146px;height:251px;padding:6px
+15px 0 10px;background:url(http://img1.tuniucdn.com/img/2014070716/list_v3/new_comment.png) no-repeat;overflow:hidden;position:relative}.new_comment
+.comment_con_inner{height:195px;overflow:hidden;position:relative}.new_comment .comment_con_inner
+ul{position:absolute}.new_comment .comment_con_inner ul
+li{height:190px;margin-bottom:10px;overflow:hidden}.new_comment .comment_con
+.comment_des{color:#666;height:75px;margin-bottom:20px;overflow:hidden}.new_comment .comment_con
+.comment_rout_name{display:block;height:35px;overflow:hidden;color:#333}.new_comment .comment_con .comment_rout_name:hover{text-decoration:underline}.new_comment .comment_con .comment_time,.new_comment .comment_con .comment_name, .new_comment .comment_con
+.comment_manyi{color:#999;margin-bottom:3px}.new_comment .comment_con .comment_time
+span{margin-right:10px}.new_comment .comment_con
+.c_name{margin-right:10px;display:block}.new_comment .comment_con .comment_manyi
+em{display:inline-block;width:35px;height:18px;line-height:18px;text-align:center;background:#ff9419;color:#fff}.hot_line
+li{border-bottom:1px dotted #ddd;margin-bottom:15px;position:relative;padding-bottom:10px}.hot_line
+li.last{border-bottom:0 none}.hot_line
+.pic{width:0px;height:50px;float:left;overflow:hidden}.hot_line .pic
+img{height:50px}.hot_line
+.des{width:125px;float:left;display:inline;margin-left:25px}.hot_line .des
+.name{height:36px;overflow:hidden}.hot_line .des
+.price{color:#f60;font-family:"microsoft yahei"}.hot_line
+.hot_num{position:absolute;width:16px;height:16px;text-align:center;line-height:16px;background:#ff9a00;color:#fff;font-weight:bold;left:0;top:0}.hot_line
+.hot_num_grey{background:#dedede;color:#fff}.hot_line li.cur
+.pic{w/idth:70px}.hot_line li.cur
+.des{width:82px}.hot_line li.cur .des .name
+a{color:#f80;text-decoration:underline}.index1200
+.wrap{width:1200px;min-width:1200px}.index1200
+.toparea{min-width:1200px}.index1200 .side-content{width:220px}.index1200
+.dacon{width:218px}.index1200 .dacon
+img{width:100%}.index1200 .block .c .viewpoint
+a{width:100px}.index1200 .block .c .download
+dd{width:90px}.index1200 .rec-pro ul li a,
+.index1200 .mayinterest ul li a,
+.index1200 .rec-pro ul li a img,
+.index1200 .mayinterest ul li a img,
+.index1200 .u-history .c li
+img{width:190px;height:90px}.index1200 .main-content{width:955px}.index1200 .pro-tab{background-position:right top}.index1200 .pro-tab
+ul{float:left;height:37px;padding:0
+10px;background-color:#68CC3D;overflow:hidden}.index1200
+.tickets{width:933px}.index1200 .tickets
+.ticketsname{width:480px}.index1200 .modblock
+.content{width:955px}.index1200 .hotsite ul li,
+.index1200 .hotsite ul li .img,
+.index1200 .hotsite ul li .img
+img{width:210px}.index1200 .hotsite ul
+li{margin-right:38px}.index1200 .goodblogs ul li .aboutimg .list a,
+.index1200 .goodblogs ul li .aboutimg .list a
+img{width:125px}.index1200 .goodblogs ul li .aboutimg .list
+a{margin-right:24px}.index1200 .goodblogs ul li .aboutimg
+.imgcon{width:870px}.index1200
+.filter{width:953px}.index1200 .thebox li
+.theinfo{width:933px}.index1200 .theinfo
+.detail{width:640px}.index1200 .hotelbox .ticketlist
+.b{width:150px}.index1200 .hotelbox .ticketlist
+.br{width:200px}.index1200 .hotelbox .ticketlist
+.tp{width:260px}.index1200 .menpiaobox .ticketlist
+.n{width:400px}.index1200 .menpiaobox .ticketlist
+.p{width:100px}.index1200 .menpiaobox .ticketlist
+.tp{width:240px}.index1200 .menpiaobox .ticketlist
+.pt{width:110px}.index1200 .toparea .protab
+dd{padding:0
+30px}.index1200 .toparea .protab
+dd.cur{padding:0
+50px}.index1200
+.specil_filter{width:190px}.index1200 .list-view .bestrec
+.info{width:610px}.index1200 .hotsite ul li .img
+p{width:200px}.index1200 .prop_list .hasMoreChoice dl
+ul{width:770px}.index1200
+.notice{width:955px}.index1200 .teambox
+li{width:773px}.index1200 .teambox
+.company_tour{width:610px}.index1200
+.pagination{width:955px}.tpbox .citybox .i-con{margin-top:0 !important;*vertical-align:middle}.tpbox .citybox
+.des_rank{margin-top:15px !important;height:18px !important;overflow:hidden !important}.cat_top{margin:5px
+0}.cat_top, .cat_top
+img{width:1000px}.index1200 .cat_top, .index1200 .cat_top
+img{width:1200px}.dacon .tn-slide{width:170px;height:125px;margin-bottom:20px;margin-left:10px}.dacon .tn-slide
+img{width:745px}.side-content .dacon
+h3{color:#333;font:400 16px/30px "Microsoft YaHei";padding-left:9px;padding-top:5px;border:0
+none}.dacon #tn-slide
+li{position:relative}.dacon #tn-slide
+.tnmask{position:absolute;left:0px;bottom:0px;height:20px;width:170px;background:#000;opacity:0.5}.dacon #tn-slide
+.mas{color:#fff;position:absolute;bottom:0px;left:0px;line-height:20px;text-align:center;width:170px}.dacon #tn-slide .btn
+span{background:none;width:0px;height:0px}.dacon #tn-slide
+.preNext{background:url(http://img3.tuniucdn.com/img/2014101701/list_v3/trapbg.png) no-repeat;width:30px;height:40px}.dacon #tn-slide
+.next{background-position:0 0px}.dacon #tn-slide
+.pre{background-position:-40px 0}.dacon
+a.acting{display:block;width:170px;height:100px;margin-left:9px;margin-bottom:10px;overflow:hidden}.dacon a.acting
+img{width:170px}.parttabbox .wrap
+.subparttab{width:auto}.searchBox .citybox
+.cityname{font-size:20px}.citybox
+.result{color:#999;position:relative;height:12px;margin-top:8px;float:left;font-size:14px;font-weight:bold}.citybox .result
+span{color:#f80}.filterboxs
+.tabbox{background:none repeat scroll 0 0 #fff;border:1px
+solid #ebebeb;border-bottom:2px solid #698495;border-left:0 none;font-size:16px;font-family:"Microsoft YaHei";height:39px}.tabbox
+li{display:inline;overflow:visible;border-left:1px solid #ebebeb}.cate_nav{border-top:1px solid #e7e7e7}.tabbox li
+a{float:left;font-size:16px;height:39px;line-height:39px;padding:0px
+20px}.tabbox
+li{float:left}.tabbox
+li.active{background:#698497;color:#fff;height:39px}.tabbox
+li.first.active{border-left:0 none}.tabbox li:hover
+a{color:#698497}.tabbox li.active
+a{background:none repeat scroll 0 0 #698497;color:#fff;border-bottom:none;font-weight:700}.tabbox
+li.clearselect{float:right;top:3px;border-left:0 none}.tabbox li.clearselect
+a{font-size:14px;color:#a59f9f;margin-right:-12px}.tabbox
+span{display:inline;font-size:12px;font-family:"瀹�浣�"}.prop_list
+.choiceCity{overflow:visible;z-index:101;padding-top:10px;margin-bottom:10px}.prop_list
+.poi_selecters{}.prop_list .poi_selecters
+.districtBox{position:relative;float:left;display:inline;width:229px;margin-right:10px;min-height:80px;_height:80px;background:#fff;z-index:10}.prop_list .poi_selecters
+.district{float:left;display:inline;width:227px;border:1px
+solid #e7e7e7;position:absolute;background:#fff}.poi_selecters .district
+.district_tit{font-size:14px;color:#999;font-family:"Microsoft YaHei";padding:0
+7px}.poi_selecters .district
+.district_con{padding:0
+7px}.poi_selecters .district .district_tit
+i{background-color:#ff923c;display:inline;float:left;font-size:0;height:11px;line-height:0;margin:11px
+5px 0 0;width:4px}.prop_list .poi_selecters
+.district_con.oneLine{height:32px;overflow:hidden}.prop_list .poi_selecters
+.district_con{background:#fff}.prop_list .poi_selecters .district_con
+ul{width:220px;position:static;float:none;display:block}.prop_list .poi_selecters .district_con ul
+li{width:auto;margin-right:0;text-align:center}.district_sharp{height:13px;background:#fafafa;cursor:pointer;line-height:13px;border-top:1px solid #eaeaea;position:relative}.district_sharp
+span{color:#999;line-height:13px;display:inline-block;width:10px;height:5px;background:url(http://img1.tuniucdn.com/img/20140708/list_v3/icon.png) no-repeat;position:absolute;left:110px;top:4px;_top:6px}.district_sharp.top
+span{background-position:-14px -608px}.district_sharp.bottom
+span{background-position:0px -608px}.poi_selecters .district dd
+ul{width:100%;height:40px;overflow-y:hidden}.poi_selecters .district
+.moreselect{background:url("http://img1.tuniucdn.com/img/2014040414/common/nav_bg.png") no-repeat scroll 0 -219px rgba(0, 0, 0, 0);right:20px;height:16px;width:100%;transition:all 0.3s ease-in 0s;border:1px
+solid #e7e7e7}.prop-list-new dd
+li.mulselect{right:-90px}.floortitle
+a{float:right;font-size:12px;font-weight:400;color:#666;font-family:Tahoma,arial,瀹�浣�,sans-serif}.floortitle a
+i{color:#2e9900}.hotel h2
+span{color:#13bace}.hotel
+.ticketsname{width:431px}.hotel
+.satic{width:110px}.hotel .tickets .ticketsname a
+i{width:71px;height:13px;display:inline-block;background:url(http://img1.tuniucdn.com/img/2014072915/list_v3/list_v3_star.png) no-repeat}.hotel .tickets .ticketsname a
+i.star5{background-position:0 0}.hotel .tickets .ticketsname a
+i.star4{background-position:0 -18px}.hotel .tickets .ticketsname a
+i.star3{background-position:0 -35px}.hotel .tickets .ticketsname a
+i.star2{background-position:0 -52px}.hotel .tickets .ticketsname a
+i.star1{background-position:0 -68px}.hotel .tickets .ticketsname a
+i.star6{background-position:0 -89px}.hotel .tickets .ticketsname a
+i.star7{background-position:0 -107px}.hotel .tickets .ticketsname a
+i.star8{background-position:0 -124px}.hotel .tickets .ticketsname a
+i.star9{background-position:0 -142px}.prop-list-new .chooseitem dd .had_select li.resetbtn
+a{border:0
+none}.district_con li:hover{background-color:#fff4e5;color:#666}.tpbox
+.citybox{padding-left:0}.citybox
+.citybox_agin{float:left;width:225px;margin-right:10px;position:relative}.citybox
+.cb_input{height:26px;line-height:26px;padding:5px;font-size:20px;border:1px
+solid #dcdcdc;color:#666;font-family:"Microsoft YaHei"}.citybox .cb_input:hover{border:1px
+solid #ccc}.citybox
+.cb_a{background:url(http://img4.tuniucdn.com/img/20140726/list_v3/nsprite.png) no-repeat 0 -235px;position:absolute;display:block;width:20px;height:20px;right:8px;top:9px;opacity:0.6;filter:alpha(opacity = 60)}.citybox .cb_a:hover{opacity:1;filter:alpha(opacity = 100)}.isOneLine
+.onlyOneLine{height:32px;overflow:hidden}.tickets{border:none}.tickets
+li{margin-bottom:0}.floortitle{text-indent:10px;margin:0;padding:0
+0 10px 0}.diytour_new{border:1px
+solid #ebebeb;background:#fff;margin-bottom:10px}.hotel
+.hotel{border:1px
+solid #ebebeb;background:#fff}.no_result{font-size:16px}.menpiaobox li,
+.hotelbox li,
+.menpiaobox li:hover,
+.hotelbox li:hover{border:none;margin-bottom:0}.menpiaobox,.hotelbox{border:1px
+solid #ebebeb}.thebox_tt{padding:0}

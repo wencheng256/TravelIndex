@@ -1,0 +1,708 @@
+/* scaffold */
+.box_1 {
+    /* base font-size: 16px */
+    margin-top:1px;width:965px; height:296px; z-index:-100;
+}
+.box_2 {
+    /* base font-size: 16px */
+    width: 100%;
+    margin-top: 64px;height:296px;
+}
+
+.wrapper {
+    /* base font-size: 16px */
+    width: 59.375em;
+}
+.wrapper_box_2 {
+    /* base font-size: 16px */
+    margin-top: 1.125em;
+}
+/* end scaffold */
+
+
+
+
+
+/* IE10 Windows Phone 8 Fixes */
+.swiper-wp8-horizontal {
+	-ms-touch-action: pan-y;
+}
+.swiper-wp8-vertical {
+	-ms-touch-action: pan-x;
+}
+
+/* ===============================================================
+Your custom styles, here you need to specify container's and slide's
+sizes, pagination, etc.
+================================================================*/
+.swiper-container {
+	/* Specify Swiper's Size: */
+
+	/*width:200px;
+	height: 100px;*/
+}
+
+/* ===============================================================
+Pagination Styles
+================================================================*/
+.swiper-pagination-switch {
+	/* Stylize pagination button: */
+}
+.swiper-active-switch {
+	/* Specific active button style: */
+}
+.swiper-visible-switch {
+	/* Specific visible button style: */
+}
+/* end Swiper */
+
+
+
+/* slider */
+.swiper-container {
+    /* base font-size: 16px */
+    width: 100%;
+    height: 296px;
+    background: #fff;
+}
+
+.swiper-slide {
+    height: 296px;
+}
+.swiper_pic {
+    /* base font-size: 16px */
+    display: block;
+    height:296px;
+    background-position: center 0;
+    background-repeat: repeat-x;
+}
+
+.slider_link {
+    /* base font-size: 16px */
+    display: block;
+    width: 15.625em;
+    height: 6.5625em;
+    background: #f60;
+    margin-top: 0.125em;
+    overflow: hidden;
+}
+.slider_link a,
+.slider_link img {
+    display: block;
+}
+
+/* ===============================================================
+Your custom styles, here you need to specify container's and slide's
+sizes, pagination, etc.
+================================================================*/
+.swiper-container {
+	/* Specify Swiper's Size: */
+
+	/*width:200px;
+	height: 100px;*/
+}
+.swiper-slide {
+	/* Specify Slides's Size: */
+	
+	/*width: 100%;
+	height: 100%;*/
+}
+.swiper-slide-active {
+	/* Specific active slide styling: */
+	
+}
+.swiper-slide-visible {
+	/* Specific visible slide styling: */	
+
+}
+/* ===============================================================
+Pagination Styles
+================================================================*/
+.swiper_pagination {
+    /* base font-size: 16px; */
+    position: absolute;
+    z-index: 1;
+    bottom: 1em;
+    text-align: center;
+    overflow: hidden;
+}
+.swiper-pagination-switch {
+	/* Stylize pagination button: */
+    float: left;
+    width: 1.5625em;
+    height: 0.75em;
+    line-height: 0.75em;
+    background: #fff;
+    cursor: pointer;
+    margin: 0 0.3em 0 0;
+}
+.swiper-active-switch {
+	/* Specific active button style: */
+    background: #ff6600;
+}
+.swiper-visible-switch {
+	/* Specific visible button style: */	
+	
+}
+/* end slider */
+
+
+
+/* city_switcher */
+.city_switcher_wrapper {
+    /* base font-size: 16px */
+    width: 237px; height:296px;
+    margin-top: -360px;
+    position: relative;
+    z-index: 1;
+    padding-bottom: 0.0625em;
+    margin-left: 0.0625em;
+}
+.cww_corner {
+    position: absolute;
+    width: 7px;
+    height: 10px;
+    background: url(../image/koala_css.png) no-repeat -230px -3080px;
+    top: 0;
+    right: -7px;
+}
+.csw_hover {
+    padding-bottom: 0;
+    margin-left: 0;
+    border-left: 0.0625em solid #18bbde;
+    border-bottom: 0.0625em solid #18bbde;
+}
+.city_switcher {
+    /* base font-size: 12px */
+    height: 60px;
+    background: #18bbde;
+    color: #fff;
+}
+
+.city_switcher .i_landmark {
+    width: 1.125em;
+    height: 1.625em;
+    margin-left: 1.5em;
+    margin-right: 0.3462em;
+    background: url(../image/koala_css.png) no-repeat -7px -2862px;
+    margin-top: 1em;
+}
+.city_current {
+    /* base font-size: 18px */
+    font-size: 1.125em;
+    margin-right: 1.0556em;
+    margin-top: 17px;
+}
+.city_change {
+    /* base font-size: 14px */
+    font-size: 0.875em;
+    color: #fff;
+    margin-top: 20px;
+}
+
+.cwri_wrapper {
+    width: 237px;
+    position: relative;
+    z-index: 1; top:64px;
+}
+.city_switcher_recomend_item {
+    /* base font-size: 16px */
+    /*position: relative;*/
+    background: #f4f4f4;
+    height: 98px;
+    border-bottom: 1px solid #dcdcdc;
+}
+.last_city_switcher_recomend_item {
+    border-bottom: 0;
+}
+.cwri_hover {
+    background: #fff;
+}
+.city_switcher_recomend_item .cwri_main {
+    /* base font-size: 16px */
+    padding: 5px 0 7px 12px;
+    width: 212px;
+    height: 88px;
+    overflow: hidden;
+}
+.cwri_main h2{ font-size:14px; color:#C00; line-height:28px;}
+.i_right_arrow {
+    /* base font-size: 16px */
+    margin-right: 0.5em;
+    margin-top: 40px;
+    width: 5px;
+    height: 9px;
+    background: url(../image/koala_css.png) no-repeat -27px -951px;
+}
+.city_switcher_recomend_link {
+    /* base font-size: 12px */
+    
+    margin-right: 0.6em;
+    height: 24px;
+    line-height: 24px;
+}
+.csw_play_item_col{height: 296px;}
+
+.csw_play_item_wrapper {
+    /* base font-size: 16px */
+    position: absolute;
+    bottom: 0;
+    left: 237px;
+    height: 296px;
+    background: #fff;filter:alpha(opacity=90);-moz-opacity: 0.9;opacity:.90;
+    visibility: hidden;
+}
+/*.csw_play_item_wrapper .part_1 {
+    width: 708px; 
+}*/
+.csw_play_item_wrapper .hd {
+    font-size:14px;
+    color: #00a3c7;
+}
+.csw_play_item_wrapper .limit {
+    width: 329px;
+    overflow: hidden;
+}
+.csw_play_item_wrapper .area_item,
+.csw_play_item_wrapper .scenic_item,
+.csw_play_item_wrapper .label_item {
+    line-height: 24px;
+    margin-right: 1.5em;
+}
+
+.csw_play_item {
+    /* base font-size: 16px */
+    padding:8px 15px 0 15px;
+    width: 678px;
+    height: 283px;
+    overflow: hidden;
+}
+.last_csw_play_item {
+    width: 339px;
+}
+.csw_play_item .block {
+    width: 339px;
+}
+/* end city_switcher */
+
+/* product_recommend */
+.product_recommend {
+    /* base font-size: 16px */
+    width: 718px; margin-top:8px;
+}
+.product_recommend_item {
+    /* base font-size: 16px */
+    margin-right: 5px;
+    width: 175px;
+    height: 250px;
+    overflow: hidden;
+}
+.product_recommend_item_last {
+    margin-right: 0;
+}
+.product_recommend_item_link,
+.product_recommend_item_link img {
+    height: 250px;
+    display: block;
+}
+.product_recommend_item_link {
+    position: relative;
+    cursor: pointer;
+}
+.product_recommend_item_link:hover:after {
+    content: " ";
+    position: relative;
+    width: 175px;
+    height: 15.625em;
+    top: 0;
+    left: 0;
+    background: -ms-linear-gradient(rgba(255,255,255,0.3) 0%, rgba(255,255,255, 0.3) 100%);
+    background: -moz-linear-gradient(rgba(255,255,255,0.3) 0%, rgba(255,255,255, 0.3) 100%);
+	background: -webkit-linear-gradient(rgba(255,255,255,0.3) 0%, rgba(255,255,255, 0.3) 100%);
+	background: linear-gradient(rgba(255,255,255,0.3) 0%, rgba(255,255,255, 0.3) 100%);
+}
+.product_recommend_info {
+    /* base font-size: 16px */
+    height:53px; 
+    margin-top: 0;
+    position: absolute;
+    z-index:9999; bottom:0px;
+}
+.product_recommend_info_introduction {
+    /* base font-size: 16px */
+    width: 56px;font-size: 16px; font-family:"Microsoft Yahei";
+    height: 53px;
+    color: #fff;
+    text-align: center;
+    line-height: 20px;
+    padding-top: 6px;
+    position: relative;
+    z-index: 1;
+}
+div.product_recommend_info_content {
+    /* base font-size: 16px */
+    width: 119px;
+    height: 53px;
+    color: #fff;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.6);
+}
+.product_recommend_info_content_title {
+    /* base font-size: 16px */
+    font-size: 16px; font-family:"Microsoft Yahei";
+    margin-top: 2px; line-height:28px;
+}
+.product_recommend_info_content_price {
+    /* base font-size: 16px */
+    font-size: 12px; font-family:"Microsoft Yahei";
+    line-height: 1.1;
+    
+}
+.highlight {
+    color: #ff5400;
+}
+.product_recommend_info_content_price .price {
+    /* base font-size: 12px */
+    font-size: 1.1667em;
+}
+.prii_1 {
+    background: #a6d63f;
+}
+.prii_1_arrow {
+    position: absolute;
+    width: 7px;
+    height: 13px;
+    background: url(../image/koala_css.png) no-repeat 0 -1174px;
+    top: 18px;
+    right: -7px;
+}
+.prii_2 {
+    background: #60a9f7;
+}
+.prii_2_arrow {
+    position: absolute;
+    width: 7px;
+    height: 13px;
+    background: url(../image/koala_css.png) no-repeat 0 -1187px;
+    top: 18px;
+    right: -7px;
+}
+.prii_3 {
+    background: #f3c528;
+}
+.prii_3_arrow {
+    position: absolute;
+    width: 7px;
+    height: 13px;
+    background: url(../image/koala_css.png) no-repeat 0 -1200px;
+    top: 18px;
+    right: -7px;
+}
+.prii_4 {
+    background: #f46d48;
+}
+.prii_4_arrow {
+    position: absolute;
+    width: 7px;
+    height: 13px;
+    background: url(../image/koala_css.png) no-repeat 0 -1213px;
+    top: 18px;
+    right: -7px;
+}
+/* end product_recommend */
+
+/* promotion */
+.promotion {
+    /* base font-size: 16px */
+    width: 59.375em;
+}
+.promotion_hd {
+    /* base font-size: 18px */
+    font-size: 18px;font-family:"Microsoft Yahei";
+    border-bottom: 2px solid #dcdcdc;
+    margin-bottom: 0.6667em;
+    padding-left: 1.5em;
+    background: url(http://img1.tripzm.net/pc/images/koala_css.png) no-repeat 0 -1234px;
+}
+.promotion_icon {
+    margin-left: 0.25em;
+    margin-right: 0.5em;
+    font-size: 1.25em;
+    line-height: 1;
+    color: #18bbde;
+}
+.promotion_link {
+    /* base font-size: 16px */
+    display: block;
+    width: 14.375em;
+    height: 8.125em;
+    overflow: hidden;
+    position: relative;
+    margin-left: 0.625em;
+}
+.pl_above {
+    /* base font-size: 16px */
+    margin-bottom: 0.625em;
+}
+.promotion_link_primary {
+    /* base font-size: 16px */
+    width: 14.375em;
+    height: 16.875em;
+    margin-left: 0;
+}
+.promotion_link img {
+    /* base font-size: 16px */
+    display: block;
+    width: 14.375em;
+    height: 8.125em;
+}
+.promotion_link_primary img {
+    /* base font-size: 16px */
+    display: block;
+    width: 14.375em;
+    height: 16.875em;
+}
+span.promotion_link_introduction {
+    /* base font-size: 16px */
+    display: block;
+    margin-top: 0;
+    width: 14.375em;
+    background: rgba(0, 0, 0, 0.4);
+    position: relative;
+}
+.promotion_link_primary .promotion_link_introduction {
+    width: 14.375em;
+}
+.promotion_link_introduction .hd,
+.promotion_link_introduction span {
+    /* base font-size: 12px */
+    font-size: 0.75em;
+    line-height: 21px;
+    color: #fff;
+    padding: 0 1em;
+    display: block;
+}
+.promotion_link_introduction .hd {
+    text-align: center;
+}
+
+/* end promotion */
+
+
+
+/* concern */
+.concern {
+    /* base font-size: 16px */
+    width: 14.375em;
+}
+.concern_hd {
+    /* base font-size: 16px */
+    font-size: 1.125em;
+}
+.concern_item {
+    /* base font-size: 16px */
+    margin-bottom: 0.625em;
+}
+.concern_item_last {
+    margin-bottom: 0;
+}
+.concern_link {
+    /* base font-size: 16px */
+    display: block;
+    position: relative;
+    height: 8.0625em;
+    cursor: pointer;
+}
+.concern_link img {
+    display: block;
+    width: 230px;
+    height: 129px;
+}
+.concern_link:hover:after {
+    content: " ";
+    position: absolute;
+    width: 14.375em;
+    height: 8.0625em;
+    top: 0;
+    left: 0;
+    background: -ms-linear-gradient(rgba(255,255,255,0.3) 0%, rgba(255,255,255, 0.3) 100%);
+    background: -moz-linear-gradient(rgba(255,255,255,0.3) 0%, rgba(255,255,255, 0.3) 100%);
+	background: -webkit-linear-gradient(rgba(255,255,255,0.3) 0%, rgba(255,255,255, 0.3) 100%);
+	background: linear-gradient(rgba(255,255,255,0.3) 0%,rgba(255,255,255, 0.3) 100%);
+}
+.concern_index {
+    /* base font-size: 14px */
+    display: block;
+    position: absolute;
+    font-size: 0.875em;
+    width: 30px;
+    height: 25px;
+    line-height: 1.4286;
+    text-align: center;
+    color: #fff;
+    background: url(../image/koala_css.png) no-repeat 0 -3185px;
+    left: -5px;
+    top: 0;
+    z-index: 1;
+}
+span.concern_num {
+    /* base font-size: 12px */
+    font-size: 0.75em;
+    display: block;
+    position: absolute;
+    width: 5.4167em;
+    height: 1.8333em;
+    line-height: 1.75em;
+    background: rgba(0, 0, 0, 0.7);
+    right: 0;
+    top: 0;
+    color: #fff;
+    z-index: 1;
+}
+.concern_num .icon {
+    display: block;
+    padding-left: 2.4375em;
+    background: url(../image/koala_css.png) no-repeat 2px -2926px;
+}
+span.concern_product {
+    /* base font-size: 14px */
+    display: block;
+    font-size: 0.875em;
+    width: 230px;
+    height: 1.8em;
+    line-height: 1.8;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background: rgba(0, 0, 0, 0.4);
+    text-align: center;
+    color: #fff;
+    z-index: 1;
+}
+/* end concern */
+
+* html .swiper-pagination-switch {
+    overflow: hidden;
+}
+/* end slider */
+
+
+
+/* city_switcher */
+/** html .city_change {
+    margin-top: 1.55em;
+}
+*:first-child + html .city_change {
+    margin-top: 1.55em;
+}*/
+* html .csw_play_item_wrapper .area_item {
+    white-space: nowrap;
+}
+*:first-child + html .csw_play_item_wrapper .area_item {
+    white-space: nowrap;
+}
+* html .csw_play_item_wrapper .scenic_item {
+    white-space: nowrap;
+}
+*:first-child + html .csw_play_item_wrapper .scenic_item {
+    white-space: nowrap;
+}
+* html .csw_play_item_wrapper .label_item {
+    white-space: nowrap;
+}
+*:first-child + html .csw_play_item_wrapper .label_item {
+    white-space: nowrap;
+}
+
+* html .city_switcher_recomend_item {
+    word-break: break-all;
+}
+* html .city_switcher_recomend_link {
+    white-space: nowrap;
+}
+*:first-child + html .city_switcher_recomend_item {
+    word-break: break-all;
+}
+*:first-child + html .city_switcher_recomend_link {
+    white-space: nowrap;
+}
+
+/* end city_switcher */
+
+
+
+/* city_choice */
+* html .cc_arrow {
+    overflow: hidden;
+}
+* html .cc_x {
+    overflow: hidden;
+}
+* html .cc_cnt {
+    width: 13.25em;
+    word-break: break-all;
+}
+* html .cc_cnt a {
+    white-space: nowrap;
+}
+*:first-child + html .cc_cnt {
+    width: 13.25em;
+    word-break: break-all;
+}
+*:first-child + html .cc_cnt a {
+    white-space: nowrap;
+}
+*:first-child + html .cc_tt {
+    /* base font-size: 12px */
+    width: 2.2em;
+    margin-right: 1.8em;
+}
+/* city_choice */
+
+
+
+/* vice_banner */
+* html .vice_banner_li {
+    height: 6.5625em;
+    overflow: hidden;
+}
+/* end vice_banner */
+
+/* hover 遮照问题处理 */
+* html .vice_banner_link, * html .vice_banner_link:hover:after {
+    position: static;
+}
+* html .topic_recommend .topic_recommend_link, * html .topic_recommend .topic_recommend_link:hover:after {
+    position: static;
+}
+* html .product_recommend_item_link, * html .product_recommend_item_link:hover:after {
+    position: static;
+}
+* html .concern_link:hover:after {
+    position: static;
+}
+* html .concern .concern_item .concern_link {
+    position: relative;
+} 
+/* end 遮照问题处理 */
+
+/* product_recommend */
+.product_recommend_info_content {
+    background: #000;
+}
+* html .prii_1_arrow,
+* html .prii_2_arrow,
+* html .prii_3_arrow,
+* html .prii_4_arrow {
+    overflow: hidden;
+}
+/* end product_recommend */
+
+
+
+/* promotion */
+.promotion_link_introduction {
+    background: #000;
+}
+/* end promotion */
+

@@ -1,0 +1,260 @@
+.all_dest_lists .dest_name span {
+	background: url("http://img4.tuniucdn.com/img/20131206/gentuan/gentuan.png?") no-repeat 0px 0px;
+}
+.youji_saf .ys_header {
+	background: url("http://img4.tuniucdn.com/img/20131206/gentuan/gentuan.png?") no-repeat 0px 0px;
+}
+.all_dest_lists .all_others a.all_name {
+	background: url("http://img4.tuniucdn.com/img/20131206/gentuan/gentuan.png?") no-repeat 0px 0px;
+}
+.chujing_icon {
+	background: url("http://img4.tuniucdn.com/img/20131206/gentuan/gentuan.png?") no-repeat 0px 0px;
+}
+.zhoubian_icon {
+	background: url("http://img4.tuniucdn.com/img/20131206/gentuan/gentuan.png?") no-repeat 0px 0px;
+}
+.guonei_icon {
+	background: url("http://img4.tuniucdn.com/img/20131206/gentuan/gentuan.png?") no-repeat 0px 0px;
+}
+
+.all_dest_lists {
+	margin: 30px 0px 0px;
+}
+.all_dest_lists .city_lists {
+	position: relative; z-index: 800;
+}
+.all_dest_lists .all_others {
+	top: 0px; text-align: center; right: 0px; line-height: 22px; position: absolute;
+}
+.all_dest_lists .all_others a {
+	color: rgb(102, 102, 102);
+}
+.all_dest_lists .all_others a.all_name {
+	background-position: 84px -216px; border-width: 1px 1px medium medium; border-style: solid solid none none; border-color: rgb(255, 255, 255) rgb(255, 255, 255) currentColor currentColor; width: 100px; height: 33px; display: block; position: relative;
+}
+.all_dest_lists .all_others a.all_name:hover {
+	color: rgb(255, 102, 0);
+}
+.all_dest_lists .all_other_des {
+	top: 33px; width: 800px; right: 0px; overflow: hidden; display: none; position: absolute; z-index: 9999; max-height: 272px; background-color: rgb(255, 255, 255); _height: 272px;
+}
+.all_dest_lists .a_ohter_hover .all_other_des {
+	display: block;
+}
+.all_dest_lists .a_ohter_hover a.all_name {
+	z-index: 10000; background-color: rgb(255, 255, 255);
+}
+.all_dest_lists .all_oh_des {
+	padding: 15px 14px 0px;
+}
+.all_dest_lists .dest_name {
+	float: left;
+}
+.all_dest_lists .city_name {
+	margin-right: 100px; float: right; _margin-right: 50px;
+}
+.all_dest_lists .dest_name {
+	font-family: "Microsoft Yahei"; font-size: 18px;
+}
+.all_dest_lists .dest_name span {
+	padding: 0px 0px 0px 36px;
+}
+.all_dest_lists .city_name a {
+	margin: 5px 0px; padding: 0px 15px; color: rgb(102, 102, 102); line-height: 14px; border-right-color: rgb(184, 184, 184); border-right-width: 1px; border-right-style: solid; display: inline-block; _zoom: 1;
+}
+.all_dest_lists .city_name a:hover {
+	color: rgb(255, 153, 0);
+}
+.all_dest_lists .dest_imfor {
+	margin: 5px 0px 0px;
+}
+.all_dest_lists .dest_classif {
+	width: 190px; height: 270px; overflow: hidden; float: left;
+}
+.all_dest_lists .dest_classif_name {
+	padding: 10px 0px 0px 10px; height: 200px;
+}
+.all_dest_lists .dest_classif_ad {
+	height: 60px;
+}
+.all_dest_lists .dest_classif_ad a {
+	display: block;
+}
+.all_dest_lists .dest_classif_ad img {
+	display: block;
+}
+.all_dest_lists .dcn_name {
+	width: 180px;
+}
+.all_dest_lists .dcn_name li {
+	margin: 0px 10px 10px 0px; width: 80px; height: 40px; text-align: center; line-height: 40px; float: left; cursor: pointer; background-color: rgb(255, 255, 255);
+}
+.all_dest_lists .main_imfor {
+	margin: 0px 0px 0px 200px; height: 270px; _margin: 0 0 0 195px;
+}
+.all_dest_lists .main_prods {
+	width: 1000px; overflow: hidden; padding-top: 10px;
+}
+.all_dest_lists .main_prods ul {
+	width: 1013px;
+}
+.all_dest_lists .main_prods li {
+	margin-right: 11px; float: left;
+}
+.all_dest_lists .m_prod_pic {
+	width: 190px; height: 140px; overflow: hidden; position: relative;
+}
+.all_dest_lists .m_prod_pic a {
+	display: block;
+}
+.all_dest_lists .m_prod_pic img {
+	display: block;
+}
+.all_dest_lists .m_prod_price {
+	left: 0px; width: 100%; height: 30px; bottom: 0px; line-height: 30px; position: absolute;
+}
+.all_dest_lists .m_prod_price .mpp_num {
+	width: 45%; float: left; display: block;
+}
+.all_dest_lists .m_prod_price .trav_name {
+	width: 45%; float: left; display: block;
+}
+.all_dest_lists .m_prod_price .mpp_num {
+	padding: 0px 0px 0px 5%; text-align: left; color: rgb(255, 102, 0); font-size: 14px; font-weight: 700;
+}
+.all_dest_lists .m_prod_price .trav_name {
+	padding: 0px 5% 0px 0px; text-align: right; color: rgb(255, 255, 255);
+}
+.all_dest_lists .m_prod_pic .trans_bg {
+	left: 0px; width: 100%; height: 30px; bottom: 0px; line-height: 30px; filter: alpha(opacity=60); position: absolute; opacity: 0.6; background-color: rgb(0, 0, 0);
+}
+.all_dest_lists .m_prod_name {
+	margin: 5px 0px 0px; width: 190px; height: 45px; color: rgb(64, 64, 64); overflow: hidden;
+}
+.all_dest_lists .m_prod_name a {
+	display: block;
+}
+.all_dest_lists .m_prod_name a:hover {
+	color: rgb(255, 102, 0);
+}
+.all_dest_lists .sub_prds {
+	padding-top: 10px; margin-top: 10px; border-top-color: rgb(200, 200, 200); border-top-width: 1px; border-top-style: solid;
+}
+.all_dest_lists .sub_prds ul {
+	list-style-type: square;
+}
+.all_dest_lists .sub_prds li {
+	width: 50%; line-height: 24px; float: left;
+}
+.all_dest_lists .sub_prds li a {
+	float: left; display: block;
+}
+.all_dest_lists .sub_prds li span {
+	float: left; display: block;
+}
+.all_dest_lists .sub_prds li em {
+	float: left; display: block;
+}
+.all_dest_lists .sub_prds li a {
+	width: 400px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis;
+}
+.all_dest_lists .sub_prds li a:hover {
+	color: rgb(255, 102, 0);
+}
+.all_dest_lists .sub_prds li em {
+	color: rgb(153, 153, 153); padding-right: 5px;
+}
+.all_dest_lists .sub_prds li span {
+	color: rgb(255, 102, 0); padding-right: 20px; font-size: 14px; font-weight: 700; float: right;
+}
+.zhoubian .dest_imfor {
+	border-top-color: rgb(255, 213, 175); border-top-width: 2px; border-top-style: solid;
+}
+.zhoubian .dest_classif_name {
+	background-color: rgb(255, 238, 210);
+}
+.zhoubian .dest_classif {
+	background-color: rgb(255, 238, 210);
+}
+.zhoubian .dcn_name li {
+	color: rgb(255, 102, 0); display: block;
+}
+.zhoubian .dcn_name li a {
+	color: rgb(255, 102, 0); display: block;
+}
+.zhoubian .dcn_name li a:hover {
+	color: rgb(255, 255, 255); background-color: rgb(255, 102, 0);
+}
+.zhoubian .a_ohter_hover a.all_name {
+	background-position: 84px -240px; border-width: 1px 1px medium; border-style: solid solid none; border-color: rgb(255, 213, 175) rgb(255, 213, 175) currentColor;
+}
+.zhoubian .all_other_des {
+	border: 1px solid rgb(255, 213, 175);
+}
+.guonei .dest_imfor {
+	border-top-color: rgb(129, 200, 129); border-top-width: 2px; border-top-style: solid;
+}
+.guonei .dest_classif_name {
+	background-color: rgb(215, 244, 208);
+}
+.guonei .dest_classif {
+	background-color: rgb(215, 244, 208);
+}
+.guonei .dest_name span {
+	background-position: 0px -37px;
+}
+.guonei .dcn_name li {
+	color: rgb(63, 172, 36); display: block;
+}
+.guonei .dcn_name li a {
+	color: rgb(63, 172, 36); display: block;
+}
+.guonei .dcn_name li a:hover {
+	color: rgb(255, 255, 255); background-color: rgb(63, 172, 36);
+}
+.guonei .a_ohter_hover a.all_name {
+	background-position: 84px -240px; border-width: 1px 1px medium; border-style: solid solid none; border-color: rgb(129, 200, 129) rgb(129, 200, 129) currentColor;
+}
+.guonei .all_other_des {
+	border: 1px solid rgb(129, 200, 129);
+}
+.chujing .dest_imfor {
+	border-top-color: rgb(147, 218, 238); border-top-width: 2px; border-top-style: solid;
+}
+.chujing .dest_classif_name {
+	background-color: rgb(197, 240, 252);
+}
+.chujing .dest_classif {
+	background-color: rgb(197, 240, 252);
+}
+.chujing .dest_name span {
+	background-position: 0px -78px; display: block;
+}
+.chujing .dcn_name li {
+	color: rgb(40, 173, 210); display: block;
+}
+.chujing .dcn_name li a {
+	color: rgb(40, 173, 210); display: block;
+}
+.chujing .dcn_name li a:hover {
+	color: rgb(255, 255, 255); background-color: rgb(40, 173, 210);
+}
+.chujing .a_ohter_hover a.all_name {
+	background-position: 84px -240px; border-width: 1px 1px medium; border-style: solid solid none; border-color: rgb(147, 218, 238) rgb(147, 218, 238) currentColor;
+}
+.chujing .all_other_des {
+	border: 1px solid rgb(147, 218, 238);
+}
+.chujing_icon {
+	background-position: 0px -78px !important; padding: 0px 0px 0px 36px; font-family: "Î¢ÈíÑÅºÚ"; font-size: 18px; display: block;
+}
+.zhoubian_icon {
+	padding: 0px 0px 0px 36px; font-family: "Î¢ÈíÑÅºÚ"; font-size: 18px; display: block;
+}
+.guonei_icon {
+	background-position: 0px -37px !important; padding: 0px 0px 0px 36px; font-family: "Î¢ÈíÑÅºÚ"; font-size: 18px; display: block;
+}
+
+
+
+

@@ -1,0 +1,35 @@
+/* 利用生成的伪元素来清理浮动 */
+.clearfix:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+}
+/* 利用 .clear 元素清理之前的浮动元素 */
+.clear {
+    display: block;
+    clear: both;
+}
+
+/* 隐藏元素，不占文档位置 */
+.none {
+    display: none;
+}
+* html body .none {
+    display: none;
+}
+/* 隐藏元素，使之不可见，且占据文档位置 */
+.hidden {
+    visibility: hidden;
+}
+/* float: left */
+.f_l {
+    float: left;
+}
+/* float: right */
+.f_r {
+    float: right;
+}
+/* 链接颜色 */
